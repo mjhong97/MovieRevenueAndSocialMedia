@@ -1,0 +1,670 @@
+,Title,Director,Actors,Rating,Revenue (Millions),fb_likes,yt_likes_ratio,Top actor followers,Director Followers
+0,Prometheus,Ridley Scott,"Noomi Rapace, Logan Marshall-Green, Michael Fassbender, Charlize Theron",7.0,126.46,12543,16.858131487889274,1609.0,45.0
+1,Split,M. Night Shyamalan,"James McAvoy, Anya Taylor-Joy, Haley Lu Richardson, Jessica Sula",7.3,138.12,620940,15.179878048780491,2486.0,137482.0
+2,Suicide Squad,David Ayer,"Will Smith, Jared Leto, Margot Robbie, Viola Davis",6.2,325.02,7071335,39.282845918812754,4741321.0,383.0
+3,La La Land,Damien Chazelle,"Ryan Gosling, Emma Stone, Rosemarie DeWitt, J.K. Simmons",8.3,151.06,1113950,20.090139442231077,2339466.0,10.0
+4,The Lost City of Z,James Gray,"Charlie Hunnam, Robert Pattinson, Sienna Miller, Tom Holland",7.1,8.01,23052,13.09934497816594,165445.0,391.0
+5,Passengers,Morten Tyldum,"Jennifer Lawrence, Chris Pratt, Michael Sheen,Laurence Fishburne",7.0,100.01,520225,21.41142270861833,5210050.0,3425.0
+6,Fantastic Beasts and Where to Find Them,David Yates,"Eddie Redmayne, Katherine Waterston, Alison Sudol,Dan Fogler",7.5,234.02,3304071,56.26525297619048,1859685.0,145.0
+7,Hidden Figures,Theodore Melfi,"Taraji P. Henson, Octavia Spencer, Janelle Monáe,Kevin Costner",7.8,169.27,626294,14.355799929052855,5285217.0,3383.0
+8,Rogue One,Gareth Edwards,"Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen",7.9,532.17,184030,24.992147922998985,2692181.0,265.0
+9,Moana,Ron Clements,"Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison",7.7,248.75,2323298,19.058985090243265,12689078.0,35.0
+10,Colossal,Nacho Vigalondo,"Anne Hathaway, Jason Sudeikis, Austin Stowell,Tim Blake Nelson",6.4,2.87,9670,11.148026315789476,48128.0,61.0
+11,The Secret Life of Pets,Chris Renaud,"Louis C.K., Eric Stonestreet, Kevin Hart, Lake Bell",6.6,368.31,2873114,17.110085227272727,35118192.0,48.0
+12,Hacksaw Ridge,Mel Gibson,"Andrew Garfield, Sam Worthington, Luke Bracey,Teresa Palmer",8.2,67.12,437719,36.713235294117645,18263.0,871.0
+13,Jason Bourne,Paul Greengrass,"Matt Damon, Tommy Lee Jones, Alicia Vikander,Vincent Cassel",6.7,162.16,2561621,34.32116004296456,2758.0,79.0
+14,Lion,Garth Davis,"Dev Patel, Nicole Kidman, Rooney Mara, Sunny Pawar",8.1,51.69,232444,36.72013820335636,73232.0,5.0
+15,Arrival,Denis Villeneuve,"Amy Adams, Jeremy Renner, Forest Whitaker,Michael Stuhlbarg",8.0,100.5,189011,20.041749502982107,3503922.0,899.0
+16,Independence Day: Resurgence,Roland Emmerich,"Liam Hemsworth, Jeff Goldblum, Bill Pullman,Maika Monroe",5.3,103.14,1627585,15.596547100234664,1728674.0,111343.0
+17,Bahubali: The Beginning,S.S. Rajamouli,"Prabhas, Rana Daggubati, Anushka Shetty,Tamannaah Bhatia",8.3,6.5,4203211,8.537993920972644,5090507.0,3904880.0
+18,Dead Awake,Phillip Guzman,"Jocelin Donahue, Jesse Bradford, Jesse Borrego,Lori Petty",4.7,0.01,1309,9.914285714285716,16697.0,291.0
+19,Bad Moms,Jon Lucas,"Mila Kunis, Kathryn Hahn, Kristen Bell,Christina Applegate",6.2,113.08,1065131,5.529095509171411,2344871.0,1892.0
+20,Assassin's Creed,Justin Kurzel,"Michael Fassbender, Marion Cotillard, Jeremy Irons,Brendan Gleeson",5.9,54.65,1333779,19.082327378078226,2824.0,18.0
+21,Why Him?,John Hamburg,"Zoey Deutch, James Franco, Tangie Ambrose,Cedric the Entertainer",6.3,60.31,165568,39.86654478976234,188522.0,791.0
+22,Nocturnal Animals,Tom Ford,"Amy Adams, Jake Gyllenhaal, Michael Shannon, Aaron Taylor-Johnson",7.5,10.64,105606,22.476697736351532,8788.0,110607.0
+23,X-Men: Apocalypse,Bryan Singer,"James McAvoy, Michael Fassbender, Jennifer Lawrence, Nicholas Hoult",7.1,155.33,14328360,15.389494658770133,2486.0,55.0
+24,Deadpool,Tim Miller,"Ryan Reynolds, Morena Baccarin, T.J. Miller, Ed Skrein",8.0,363.02,6884183,21.03347788378144,10203022.0,1159.0
+25,Resident Evil: The Final Chapter,Paul W.S. Anderson,"Milla Jovovich, Iain Glen, Ali Larter, Shawn Roberts",5.6,26.84,10492026,13.1598942847704,1511200.0,251.0
+26,Captain America: Civil War,Anthony Russo,"Chris Evans, Robert Downey Jr.,Scarlett Johansson, Sebastian Stan",7.9,408.08,16289765,22.015409018808064,10366620.0,513.0
+27,Interstellar,Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy",8.6,187.99,1866094,38.1980198019802,2452847.0,368.0
+28,Doctor Strange,Scott Derrickson,"Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong",7.6,232.6,1275000,32.65474632940835,1478.0,71456.0
+29,The Magnificent Seven,Antoine Fuqua,"Denzel Washington, Chris Pratt, Ethan Hawke,Vincent D'Onofrio",6.9,93.38,360857,15.379285714285714,5210050.0,14.0
+30,Moonlight,Barry Jenkins,"Mahershala Ali, Shariff Earp, Duan Sanderson, Alex R. Hibbert",7.5,27.85,358122,14.98684210526316,385.0,132988.0
+31,The Founder,John Lee Hancock,"Michael Keaton, Nick Offerman, John Carroll Lynch, Linda Cardellini",7.2,12.79,51732,22.95496894409937,459276.0,117.0
+32,Pirates of the Caribbean: On Stranger Tides,Rob Marshall,"Johnny Depp, Penélope Cruz, Ian McShane, Geoffrey Rush",6.7,241.06,24278357,34.83900523560209,3295.0,927.0
+33,Miss Sloane,John Madden,"Jessica Chastain, Mark Strong, Gugu Mbatha-Raw,Michael Stuhlbarg",7.3,3.44,29130,2.72964509394572,712057.0,802.0
+34,Star Trek Beyond,Justin Lin,"Chris Pine, Zachary Quinto, Karl Urban, Zoe Saldana",7.1,158.8,3770920,20.229129662522197,1160930.0,79692.0
+35,Star Wars: Episode VII - The Force Awakens,J.J. Abrams,"Daisy Ridley, John Boyega, Oscar Isaac, Domhnall Gleeson",8.1,936.63,19614204,32.11809420388218,1424437.0,1.0
+36,Underworld: Blood Wars,Anna Foerster,"Kate Beckinsale, Theo James, Tobias Menzies, Lara Pulver",5.8,30.35,7851464,17.221337579617835,194119.0,4.0
+37,Mother's Day,Garry Marshall,"Jennifer Aniston, Kate Hudson, Julia Roberts, Jason Sudeikis",5.6,32.46,165010,14.419480015521927,18124.0,212.0
+38,The Dark Knight,Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart,Michael Caine",9.0,533.32,19379039,54.52715654952077,26921.0,368.0
+39,Silence,Martin Scorsese,"Andrew Garfield, Adam Driver, Liam Neeson,Tadanobu Asano",7.3,7.08,269233,18.271805273833674,6856.0,76.0
+40,Don't Breathe,Fede Alvarez,"Stephen Lang, Jane Levy, Dylan Minnette, Daniel Zovatto",7.2,89.21,411423,24.807257120561843,342726.0,70.0
+41,Sully,Clint Eastwood,"Tom Hanks, Aaron Eckhart, Laura Linney, Valerie Mahaffey",7.5,125.07,279481,26.599514563106798,15320977.0,549.0
+42,Batman v Superman: Dawn of Justice,Zack Snyder,"Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg",6.7,330.25,4837477,24.39798834780697,2918806.0,626609.0
+43,The Girl on the Train,Tate Taylor,"Emily Blunt, Haley Bennett, Rebecca Ferguson, Justin Theroux",6.5,75.31,326434,24.180161943319842,51275.0,372.0
+44,Kingsman: The Secret Service,Matthew Vaughn,"Colin Firth, Taron Egerton, Samuel L. Jackson,Michael Caine",7.7,128.25,1360373,27.489085545722713,7360444.0,98.0
+45,Patriots Day,Peter Berg,"Mark Wahlberg, Michelle Monaghan, J.K. Simmons, John Goodman",7.4,31.86,240948,2.9788303784069865,3825677.0,516.0
+46,Mad Max: Fury Road,George Miller,"Tom Hardy, Charlize Theron, Nicholas Hoult, Zoë Kravitz",8.1,153.63,1580806,18.438635899530325,491141.0,220.0
+47,Wakefield,Robin Swicord,"Bryan Cranston, Jennifer Garner, Beverly D'Angelo,Jason O'Mara",7.5,0.01,290,29.584795321637426,2169657.0,8.0
+48,Deepwater Horizon,Peter Berg,"Mark Wahlberg, Kurt Russell, Douglas M. Griffin, James DuMont",7.2,61.28,255794,13.967952199891364,3825677.0,516.0
+49,Allied,Robert Zemeckis,"Brad Pitt, Marion Cotillard, Jared Harris, Vincent Ebrahim",7.1,40.07,222520,25.9915611814346,7571.0,16.0
+50,A Monster Calls,J.A. Bayona,"Lewis MacDougall, Sigourney Weaver, Felicity Jones,Toby Kebbell",7.5,3.73,68627,30.846208362863216,1749.0,1.0
+51,Collateral Beauty,David Frankel,"Will Smith, Edward Norton, Kate Winslet, Michael Peña",6.8,30.98,299636,22.966047985513807,2128174.0,16.0
+52,Zootopia,Byron Howard,"Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate",8.1,341.26,1332700,41.42111801242236,2490034.0,21.0
+53,Pirates of the Caribbean: At World's End,Gore Verbinski,"Johnny Depp, Orlando Bloom, Keira Knightley,Geoffrey Rush",7.1,309.4,8974,55.08219178082192,3295.0,69.0
+54,The Avengers,Joss Whedon,"Robert Downey Jr., Chris Evans, Scarlett Johansson,Jeremy Renner",8.1,623.28,14511709,45.06398748611193,10366622.0,223.0
+55,Inglourious Basterds,Quentin Tarantino,"Brad Pitt, Diane Kruger, Eli Roth,Mélanie Laurent",8.3,120.52,113467,16.30958904109589,293284.0,22637.0
+56,Pirates of the Caribbean: Dead Man's Chest,Gore Verbinski,"Johnny Depp, Orlando Bloom, Keira Knightley, Jack Davenport",7.3,423.03,24278358,26.32075471698113,3295.0,69.0
+57,Ghostbusters,Paul Feig,"Melissa McCarthy, Kristen Wiig, Kate McKinnon, Leslie Jones",5.3,128.34,3019983,0.27976813900556985,967354.0,2325850.0
+58,Inception,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Ken Watanabe",8.8,292.57,10855764,42.408163265306115,19219520.0,368.0
+59,Captain Fantastic,Matt Ross,"Viggo Mortensen, George MacKay, Samantha Isler,Annalise Basso",7.9,5.88,76659,20.01410105757932,2109.0,294.0
+60,The Wolf of Wall Street,Martin Scorsese,"Leonardo DiCaprio, Jonah Hill, Margot Robbie,Matthew McConaughey",8.2,116.87,2365301,21.892987582176765,19219520.0,76.0
+61,Gone Girl,David Fincher,"Ben Affleck, Rosamund Pike, Neil Patrick Harris,Tyler Perry",8.1,167.74,718495,22.69503546099291,27623914.0,14329.0
+62,Furious Seven,James Wan,"Vin Diesel, Paul Walker, Dwayne Johnson, Jason Statham",7.2,350.03,60746262,32.795605057194464,12689082.0,79.0
+63,Jurassic World,Colin Trevorrow,"Chris Pratt, Bryce Dallas Howard, Ty Simpkins,Judy Greer",7.0,652.18,8534501,19.254802076573654,5210051.0,59133.0
+64,Live by Night,Ben Affleck,"Ben Affleck, Elle Fanning, Brendan Gleeson, Chris Messina",6.4,10.38,68662,16.798076923076927,2918806.0,2918806.0
+65,Avatar,James Cameron,"Sam Worthington, Zoe Saldana, Sigourney Weaver, Michelle Rodriguez",7.8,760.51,46991592,16.881789137380192,763406.0,3566.0
+66,The Hateful Eight,Quentin Tarantino,"Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins",7.8,54.12,353019,26.592592592592588,7360445.0,22637.0
+67,The Accountant,Gavin O'Connor,"Ben Affleck, Anna Kendrick, J.K. Simmons, Jon Bernthal",7.4,86.2,206379,30.426499032882013,7099335.0,2830.0
+68,Prisoners,Denis Villeneuve,"Hugh Jackman, Jake Gyllenhaal, Viola Davis,Melissa Leo",8.1,60.96,3694,27.11730205278593,12455040.0,898.0
+69,Warcraft,Duncan Jones,"Travis Fimmel, Paula Patton, Ben Foster, Dominic Cooper",7.0,47.17,2021934,18.625044722719146,226682.0,1156.0
+70,The Help,Tate Taylor,"Emma Stone, Viola Davis, Octavia Spencer, Bryce Dallas Howard",8.1,169.71,1326721,18.175595238095237,1125804.0,372.0
+71,War Dogs,Todd Phillips,"Jonah Hill, Miles Teller, Steve Lantz, Gregg Weiner",7.1,43.02,209052,29.840725806451612,4973019.0,378.0
+72,Avengers: Age of Ultron,Joss Whedon,"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",7.4,458.99,14511709,42.26002467612585,10366628.0,223.0
+73,The Nice Guys,Shane Black,"Russell Crowe, Ryan Gosling, Angourie Rice, Matt Bomer",7.4,36.25,109555,26.083475298126068,2747719.0,368.0
+74,Kimi no na wa,Makoto Shinkai,"Ryûnosuke Kamiki, Mone Kamishiraishi, Ryô Narita, Aoi Yuki",8.6,4.68,180968,101.95072992700727,355.0,18.0
+75,The Void,Jeremy Gillespie,"Aaron Poole, Kenneth Welsh,Daniel Fathers, Kathleen Munroe",5.8,0.15,28502,16.358870967741936,76.0,165.0
+76,The Departed,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg",8.5,132.37,2007613,34.90909090909091,19219520.0,76.0
+77,Thor,Kenneth Branagh,"Chris Hemsworth, Anthony Hopkins, Natalie Portman, Tom Hiddleston",7.0,181.02,12846261,23.093192840445205,3033881.0,1078.0
+78,The Martian,Ridley Scott,"Matt Damon, Jessica Chastain, Kristen Wiig, Kate Mara",8.0,228.43,685359,30.365036838580046,712057.0,45.0
+79,The Man from U.N.C.L.E.,Guy Ritchie,"Henry Cavill, Armie Hammer, Alicia Vikander, Elizabeth Debicki",7.3,45.43,214158,35.71833084947839,137273.0,17.0
+80,Hell or High Water,David Mackenzie,"Chris Pine, Ben Foster, Jeff Bridges, Gil Birmingham",7.7,26.86,94876,33.76100628930818,226682.0,162.0
+81,The Legend of Tarzan,David Yates,"Alexander Skarsgård, Rory J. Saper, Christian Stevens, Christoph Waltz",6.3,126.59,595308,18.12401746724891,543.0,145.0
+82,Ex Machina,Alex Garland,"Alicia Vikander, Domhnall Gleeson, Oscar Isaac,Sonoya Mizuno",7.7,25.44,248096,23.68788819875777,2758.0,116.0
+83,The Belko Experiment,Greg McLean,"John Gallagher Jr., Tony Goldwyn, Adria Arjona, John C. McGinley",6.3,10.16,129675,16.811501597444092,525690.0,372.0
+84,12 Years a Slave,Steve McQueen,"Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender, Brad Pitt",8.1,56.67,839462,21.90260869565217,1609.0,239.0
+85,300,Zack Snyder,"Gerard Butler, Lena Headey, David Wenham, Dominic West",7.7,210.59,10476627,14.155555555555555,1079579.0,626612.0
+86,Harry Potter and the Deathly Hallows: Part 2,David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon",8.1,380.96,9090,49.73587786259542,28809181.0,145.0
+87,Office Christmas Party,Josh Gordon,"Jason Bateman, Olivia Munn, T.J. Miller,Jennifer Aniston",5.8,54.73,274367,17.600694444444443,1813000.0,242624.0
+88,Dangal,Nitesh Tiwari,"Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh,Sanya Malhotra",8.8,11.15,46798,10.157269690827599,23041690.0,14224.0
+89,10 Cloverfield Lane,Dan Trachtenberg,"John Goodman, Mary Elizabeth Winstead, John Gallagher Jr., Douglas M. Griffin",7.2,71.9,338169,27.505686789151355,61972.0,29.0
+90,Finding Dory,Andrew Stanton,"Ellen DeGeneres, Albert Brooks,Ed O'Neill, Kaitlin Olson",7.4,486.29,3057892,28.970207253886013,77253569.0,58407.0
+91,Miss Peregrine's Home for Peculiar Children,Tim Burton,"Eva Green, Asa Butterfield, Samuel L. Jackson, Judi Dench",6.7,87.24,1114914,58.279515640766896,7360445.0,112100.0
+92,Divergent,Neil Burger,"Shailene Woodley, Theo James, Kate Winslet, Jai Courtney",6.7,150.83,5837294,24.88326265901721,1259575.0,9012.0
+93,Mike and Dave Need Wedding Dates,Jake Szymanski,"Zac Efron, Adam Devine, Anna Kendrick, Aubrey Plaza",6.0,46.01,147407,13.44367816091954,16036306.0,4.0
+94,The Dark Knight Rises,Christopher Nolan,"Christian Bale, Tom Hardy, Anne Hathaway,Gary Oldman",8.5,448.13,271064,29.125156054931328,8947.0,368.0
+95,Transformers: Age of Extinction,Michael Bay,"Mark Wahlberg, Nicola Peltz, Jack Reynor, Stanley Tucci",5.7,245.43,32947434,18.13837920489297,3825677.0,92591.0
+96,Nerve,Henry Joost,"Emma Roberts, Dave Franco, Emily Meade, Miles Heizer",6.6,38.56,656614,20.02931596091205,3776175.0,34.0
+97,Mamma Mia!,Phyllida Lloyd,"Meryl Streep, Pierce Brosnan, Amanda Seyfried,Stellan Skarsgård",6.4,143.7,2828594,24.681818181818183,538934.0,2356.0
+98,Fences,Denzel Washington,"Denzel Washington, Viola Davis, Stephen Henderson, Jovan Adepo",7.3,57.64,197824,34.65352697095436,1125804.0,97.0
+99,Into the Woods,Rob Marshall,"Anna Kendrick, Meryl Streep, Chris Pine, Emily Blunt",6.0,128.0,16120,16.273873873873875,7099337.0,927.0
+100,Whiplash,Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist, Paul Reiser",8.5,13.09,408923,29.83689320388349,835572.0,10.0
+101,Furious 6,Justin Lin,"Vin Diesel, Paul Walker, Dwayne Johnson, Michelle Rodriguez",7.1,238.67,60746265,23.096689129797827,12689083.0,79692.0
+102,The Place Beyond the Pines,Derek Cianfrance,"Ryan Gosling, Bradley Cooper, Eva Mendes,Craig Van Hook",7.3,21.38,30816,27.874172185430464,2339475.0,281.0
+103,No Country for Old Men,Ethan Coen,"Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson",8.1,74.27,1185279,31.887755102040817,9806.0,1403.0
+104,The Great Gatsby,Baz Luhrmann,"Leonardo DiCaprio, Carey Mulligan, Joel Edgerton,Tobey Maguire",7.3,144.81,1921992,20.27542754275428,19219520.0,58269.0
+105,Shutter Island,Martin Scorsese,"Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo,Ben Kingsley",8.1,127.97,1825608,33.47142857142857,19219520.0,76.0
+106,Star Trek,J.J. Abrams,"Chris Pine, Zachary Quinto, Simon Pegg, Leonard Nimoy",8.0,257.7,3770922,33.69491525423729,6502101.0,1.0
+107,Diary of a Wimpy Kid,Thor Freudenthal,"Zachary Gordon, Robert Capron, Rachael Harris,Steve Zahn",6.2,64.0,2587921,18.71969696969697,101898.0,5854.0
+108,The Big Short,Adam McKay,"Christian Bale, Steve Carell, Ryan Gosling, Brad Pitt",7.8,70.24,223606,25.22843822843823,5356784.0,3.0
+109,Room,Lenny Abrahamson,"Brie Larson, Jacob Tremblay, Sean Bridgers,Wendy Crewson",8.2,14.68,161257,29.239534883720932,689012.0,40049.0
+110,Django Unchained,Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio,Kerry Washington",8.4,162.8,2166241,22.209352909189786,19219520.0,22637.0
+111,Watchmen,Zack Snyder,"Jackie Earle Haley, Patrick Wilson, Carla Gugino,Malin Akerman",7.6,107.5,344124,30.89743589743589,99443.0,626612.0
+112,Superbad,Greg Mottola,"Michael Cera, Jonah Hill, Christopher Mintz-Plasse, Bill Hader",7.6,121.46,6673641,25.92857142857143,4973018.0,35146.0
+113,Inferno,Ron Howard,"Tom Hanks, Felicity Jones, Irrfan Khan, Ben Foster",6.2,34.26,2671158,17.581683168316832,15320979.0,2439687.0
+114,The BFG,Steven Spielberg,"Mark Rylance, Ruby Barnhill, Penelope Wilton,Jemaine Clement",6.4,55.47,135747,14.057784145176694,1421.0,534.0
+115,The Hunger Games,Gary Ross,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth,Stanley Tucci",7.2,408.0,21400354,26.50578512396694,2889029.0,423.0
+116,White Girl,Elizabeth Wood,"Morgan Saylor, Brian Marc, Justin Bartha, Adrian Martinez",5.8,0.2,53977,4.6195219123505975,237.0,1001.0
+117,Sicario,Denis Villeneuve,"Emily Blunt, Josh Brolin, Benicio Del Toro, Jon Bernthal",7.6,46.88,311513,23.98621745788668,51275.0,898.0
+118,Aliens vs Predator - Requiem,Colin Strause,"Reiko Aylesworth, Steven Pasquale,Shareeka Epps, John Ortiz",4.7,41.8,1847796,11.045454545454543,102.0,1.0
+119,Pacific Rim,Guillermo del Toro,"Idris Elba, Charlie Hunnam, Rinko Kikuchi,Charlie Day",7.0,101.79,2007889,12.26382727003845,2490034.0,1336801.0
+120,Scott Pilgrim vs. the World,Edgar Wright,"Michael Cera, Mary Elizabeth Winstead, Kieran Culkin, Alison Pill",7.5,31.49,3129448,42.98142414860681,2646.0,737952.0
+121,Hot Fuzz,Edgar Wright,"Simon Pegg, Nick Frost, Martin Freeman, Bill Nighy",7.9,23.62,1331288,28.020661157024804,6502101.0,737952.0
+122,Free Fire,Ben Wheatley,"Sharlto Copley, Brie Larson, Armie Hammer, Cillian Murphy",7.0,1.8,36390,8.392523364485983,689012.0,204.0
+123,X-Men: Days of Future Past,Bryan Singer,"Patrick Stewart, Ian McKellen, Hugh Jackman, James McAvoy",8.0,233.91,14328359,20.701712273963835,12455046.0,55.0
+124,Casino Royale,Martin Campbell,"Daniel Craig, Eva Green, Judi Dench, Jeffrey Wright",8.0,167.01,1293824,25.305555555555557,48999.0,1340.0
+125,Now You See Me 2,Jon M. Chu,"Jesse Eisenberg, Mark Ruffalo, Woody Harrelson, Dave Franco",6.5,65.03,2926210,40.18744313011829,3891502.0,600243.0
+126,Woman in Gold,Simon Curtis,"Helen Mirren, Ryan Reynolds, Daniel Brühl, Katie Holmes",7.3,33.31,50503,15.194444444444445,10203029.0,46504.0
+127,13 Hours,Michael Bay,"John Krasinski, Pablo Schreiber, James Badge Dale,David Denman",7.3,52.82,439186,11.75,1506883.0,92591.0
+128,Spectre,Sam Mendes,"Daniel Craig, Christoph Waltz, Léa Seydoux, Ralph Fiennes",6.8,200.07,63,20.89254533243788,1058.0,159.0
+129,Nightcrawler,Dan Gilroy,"Jake Gyllenhaal, Rene Russo, Bill Paxton, Riz Ahmed",7.9,32.28,242358,24.74376731301939,3649.0,1.0
+130,Kubo and the Two Strings,Travis Knight,"Charlize Theron, Art Parkinson, Matthew McConaughey, Ralph Fiennes",7.9,48.02,246768,14.396782841823056,2452847.0,43.0
+131,Her,Spike Jonze,"Joaquin Phoenix, Amy Adams, Scarlett Johansson,Rooney Mara",8.0,25.56,40067,17.63510101010101,8788.0,609.0
+132,Frozen,Chris Buck,"Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad",7.5,400.74,23856310,9.60906862745098,2344872.0,397.0
+133,Tomorrowland,Brad Bird,"George Clooney, Britt Robertson, Hugh Laurie, Raffey Cassidy",6.5,93.42,251664,24.823699421965323,1421069.0,118455.0
+134,Dawn of the Planet of the Apes,Matt Reeves,"Gary Oldman, Keri Russell, Andy Serkis, Kodi Smit-McPhee",7.6,208.54,4376736,20.612655800575265,196663.0,45733.0
+135,Tropic Thunder,Ben Stiller,"Ben Stiller, Jack Black, Robert Downey Jr., Jeff Kahn",7.0,110.42,842702,19.924581005586592,10366640.0,6065141.0
+136,The Conjuring 2,James Wan,"Vera Farmiga, Patrick Wilson, Madison Wolfe, Frances O'Connor",7.4,102.46,4644572,18.62593645052958,213761.0,79.0
+137,Ant-Man,Peyton Reed,"Paul Rudd, Michael Douglas, Corey Stoll, Evangeline Lilly",7.3,180.19,1447397,22.287337662337666,3517.0,246.0
+138,Bridget Jones's Baby,Sharon Maguire,"Renée Zellweger, Gemma Jones, Jim Broadbent,Sally Phillips",6.7,24.09,807060,5.147362037598545,845.0,241.0
+139,The VVitch: A New-England Folktale,Robert Eggers,"Anya Taylor-Joy, Ralph Ineson, Kate Dickie, Julian Richings",6.8,25.14,442199,10.751210067763797,13549.0,3.0
+140,Cinderella,Kenneth Branagh,"Lily James, Cate Blanchett, Richard Madden,Helena Bonham Carter",7.0,201.15,14456835,15.673622579192314,242864.0,1078.0
+141,Forushande,Asghar Farhadi,"Taraneh Alidoosti, Shahab Hosseini, Babak Karimi,Farid Sajjadi Hosseini",8.0,3.4,5105,9.136363636363637,32.0,260.0
+142,Billy Lynn's Long Halftime Walk,Ang Lee,"Joe Alwyn, Garrett Hedlund, Arturo Castro, Mason Lee",6.3,1.72,50720,10.13588850174216,3493.0,134.0
+143,Crimson Peak,Guillermo del Toro,"Mia Wasikowska, Jessica Chastain, Tom Hiddleston, Charlie Hunnam",6.6,31.06,605917,36.49609375,3405185.0,1336803.0
+144,Trainwreck,Judd Apatow,"Amy Schumer, Bill Hader, Brie Larson, Colin Quinn",6.3,110.01,540083,4.6805555555555545,4723885.0,2328937.0
+145,The Light Between Oceans,Derek Cianfrance,"Michael Fassbender, Alicia Vikander, Rachel Weisz, Florence Clery",7.2,12.53,5431,83.58620689655173,2758.0,281.0
+146,Spotlight,Tom McCarthy,"Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber",8.1,44.99,165623,29.24752475247525,3891504.0,861.0
+147,Morgan,Luke Scott,"Kate Mara, Anya Taylor-Joy, Rose Leslie, Michael Yare",5.8,3.91,39652,13.201298701298699,250027.0,466.0
+148,Warrior,Gavin O'Connor,"Tom Hardy, Nick Nolte, Joel Edgerton, Jennifer Morrison",8.2,13.65,1707,28.682795698924732,25030.0,2830.0
+149,Captain America: The First Avenger,Joe Johnston,"Chris Evans, Hugo Weaving, Samuel L. Jackson,Hayley Atwell",6.9,176.64,16289764,24.06161137440759,8650827.0,818.0
+150,The Imitation Game,Morten Tyldum,"Benedict Cumberbatch, Keira Knightley, Matthew Goode, Allen Leech",8.1,91.12,219056,41.984894259818724,1478.0,3425.0
+151,Edge of Tomorrow,Doug Liman,"Tom Cruise, Emily Blunt, Bill Paxton, Brendan Gleeson",7.9,100.19,688191,16.755926724137932,6730548.0,710.0
+152,A Cure for Wellness,Gore Verbinski,"Dane DeHaan, Jason Isaacs, Mia Goth, Ivo Nandi",6.5,8.1,78472,12.935051546391751,201928.0,69.0
+153,Snowden,Oliver Stone,"Joseph Gordon-Levitt, Shailene Woodley, Melissa Leo,Zachary Quinto",7.3,21.48,191242,16.002896152254866,1259576.0,237.0
+154,X: First Class,Matthew Vaughn,"James McAvoy, Michael Fassbender, Jennifer Lawrence, Kevin Bacon",7.8,146.41,14328359,23.570579494799407,2486.0,98.0
+155,Paterson,Jim Jarmusch,"Adam Driver, Golshifteh Farahani, Nellie, Rizwan Manji",7.5,2.14,33876,16.463195691202873,132250.0,10628.0
+156,Bridesmaids,Paul Feig,"Kristen Wiig, Maya Rudolph, Rose Byrne, Terry Crews",6.8,169.08,4285,11.88,128696.0,2325850.0
+157,San Andreas,Brad Peyton,"Dwayne Johnson, Carla Gugino, Alexandra Daddario,Colton Haynes",6.1,155.18,946262,16.13412228796844,12689084.0,3468.0
+158,Spring Breakers,Harmony Korine,"Vanessa Hudgens, Selena Gomez, Ashley Benson,Rachel Korine",5.3,14.12,1080884,6.019178082191781,56144386.0,2.0
+159,Transformers,Michael Bay,"Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson",7.1,318.76,32947434,9.0,1350329.0,92591.0
+160,Thor: The Dark World,Alan Taylor,"Chris Hemsworth, Natalie Portman, Tom Hiddleston,Stellan Skarsgård",7.0,206.36,12846260,26.162743506493502,3405185.0,302.0
+161,Gods of Egypt,Alex Proyas,"Brenton Thwaites, Nikolaj Coster-Waldau, Gerard Butler, Chadwick Boseman",5.5,31.14,518886,4.327452639802097,502641.0,44.0
+162,Captain America: The Winter Soldier,Anthony Russo,"Chris Evans, Samuel L. Jackson,Scarlett Johansson, Robert Redford",7.8,259.75,16289764,24.46513819095477,8650827.0,513.0
+163,Kick-Ass,Matthew Vaughn,"Aaron Taylor-Johnson, Nicolas Cage, Chloë Grace Moretz, Garrett M. Brown",7.7,48.04,447840,21.1,3276852.0,98.0
+164,It Follows,David Robert Mitchell,"Maika Monroe, Keir Gilchrist, Olivia Luccardi,Lili Sepe",6.9,14.67,151572,12.902483900643976,30207.0,8689.0
+165,The Girl with the Dragon Tattoo,David Fincher,"Daniel Craig, Rooney Mara, Christopher Plummer,Stellan Skarsgård",7.8,102.52,572731,19.85185185185185,24881.0,14329.0
+166,American Honey,Andrea Arnold,"Sasha Lane, Shia LaBeouf, Riley Keough, McCaul Lombardi",7.0,0.66,55082,6.771111111111113,14751.0,50.0
+167,The Lobster,Yorgos Lanthimos,"Colin Farrell, Rachel Weisz, Jessica Barden,Olivia Colman",7.1,8.7,132612,20.89491525423729,8335.0,145.0
+168,Maleficent,Robert Stromberg,"Angelina Jolie, Elle Fanning, Sharlto Copley,Lesley Manville",7.0,241.41,7482504,19.12019969278034,59034.0,3.0
+169,Pan's Labyrinth,Guillermo del Toro,"Ivana Baquero, Ariadna Gil, Sergi López,Maribel Verdú",8.2,37.62,860240,19.453488372093023,55468.0,1337239.0
+170,Apocalypto,Mel Gibson,"Gerardo Taracena, Raoul Max Trujillo, Dalia Hernández,Rudy Youngblood",7.8,50.86,1175601,13.369888475836431,191.0,871.0
+171,The Perks of Being a Wallflower,Stephen Chbosky,"Logan Lerman, Emma Watson, Ezra Miller, Paul Rudd",8.0,17.74,1731822,68.21100917431194,28809872.0,62348.0
+172,Jackie,Pablo Larraín,"Natalie Portman, Peter Sarsgaard, Greta Gerwig,Billy Crudup",6.8,13.96,77293,37.33057851239669,41154.0,4040.0
+173,The Disappointments Room,D.J. Caruso,"Kate Beckinsale, Mel Raido, Duncan Joiner, Lucas Till",3.9,2.41,28043,9.051194539249149,194121.0,146.0
+174,The Grand Budapest Hotel,Wes Anderson,"Ralph Fiennes, F. Murray Abraham, Mathieu Amalric,Adrien Brody",8.1,59.07,629246,36.8937048503612,1481.0,4559.0
+175,The Host,Andrew Niccol,"Saoirse Ronan, Max Irons, Jake Abel, Diane Kruger",5.9,26.62,756860,17.68369351669941,851.0,24.0
+176,Fury,David Ayer,"Brad Pitt, Shia LaBeouf, Logan Lerman, Michael Peña",7.6,85.71,947830,22.732394366197184,1496140.0,383.0
+177,Inside Out,Pete Docter,"Amy Poehler, Bill Hader, Lewis Black, Mindy Kaling",8.2,356.45,942586,21.37745098039216,12687179.0,1952.0
+178,Rock Dog,Ash Brannon,"Luke Wilson, Eddie Izzard, J.K. Simmons, Lewis Black",5.8,9.4,14485,6.734672304439746,4766977.0,1.0
+179,Terminator Genisys,Alan Taylor,"Arnold Schwarzenegger, Jason Clarke, Emilia Clarke,Jai Courtney",6.5,89.73,1486395,8.583924123395287,4422476.0,302.0
+180,Percy Jackson & the Olympians: The Lightning Thief,Chris Columbus,"Logan Lerman, Kevin McKidd, Steve Coogan,Brandon T. Jackson",5.9,88.76,1957719,14.133016627078385,1496140.0,145.0
+181,Les Misérables,Tom Hooper,"Hugh Jackman, Russell Crowe, Anne Hathaway,Amanda Seyfried",7.6,148.78,23845,25.997435897435896,12455676.0,232.0
+182,Children of Men,Alfonso Cuarón,"Julianne Moore, Clive Owen, Chiwetel Ejiofor,Michael Caine",7.9,35.29,299964,24.58712121212121,875847.0,52776.0
+183,20th Century Women,Mike Mills,"Annette Bening, Elle Fanning, Greta Gerwig, Billy Crudup",7.4,5.66,42225,36.918269230769226,9996.0,451.0
+184,Spy,Paul Feig,"Melissa McCarthy, Rose Byrne, Jude Law, Jason Statham",7.1,110.82,335460,24.740259740259734,967362.0,2325847.0
+185,The Intouchables,Olivier Nakache,"François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot",8.6,13.18,735750,49.64985163204747,3024938.0,41.0
+186,Straight Outta Compton,F. Gary Gray,"O'Shea Jackson Jr., Corey Hawkins, Jason Mitchell,Neil Brown Jr.",7.9,161.03,2965202,33.315487571701716,104239.0,1.0
+187,The Amazing Spider-Man 2,Marc Webb,"Andrew Garfield, Emma Stone, Jamie Foxx, Paul Giamatti",6.7,202.85,20603632,38.950980392156865,4841603.0,740.0
+188,The Conjuring,James Wan,"Patrick Wilson, Vera Farmiga, Ron Livingston, Lili Taylor",7.5,137.39,4644571,13.1207065750736,213767.0,79.0
+189,The Hangover,Todd Phillips,"Zach Galifianakis, Bradley Cooper, Justin Bartha, Ed Helms",7.8,277.31,20013772,24.4,3861205.0,378.0
+190,Battleship,Peter Berg,"Alexander Skarsgård, Brooklyn Decker, Liam Neeson,Rihanna",5.8,65.17,2231455,11.576994434137287,743071.0,516.0
+191,Rise of the Planet of the Apes,Rupert Wyatt,"James Franco, Andy Serkis, Freida Pinto, Karin Konoval",7.6,176.74,4376738,17.293103448275858,196664.0,5.0
+192,Norman: The Moderate Rise and Tragic Fall of a New York Fixer,Joseph Cedar,"Richard Gere, Lior Ashkenazi, Michael Sheen,Charlotte Gainsbourg",7.1,2.27,304,7.8,302426.0,9.0
+193,Black Swan,Darren Aronofsky,"Natalie Portman, Mila Kunis, Vincent Cassel,Winona Ryder",8.0,106.95,3492181,20.315555555555555,41154.0,263352.0
+194,Nymphomaniac: Vol. I,Lars von Trier,"Charlotte Gainsbourg, Stellan Skarsgård, Stacy Martin, Shia LaBeouf",7.0,0.79,225296,5.080310880829017,21466.0,1869.0
+195,Teenage Mutant Ninja Turtles: Out of the Shadows,Dave Green,"Megan Fox, Will Arnett, Tyler Perry, Laura Linney",6.0,0.54,2707274,14.36088295687885,5514945.0,966.0
+196,Knock Knock,Eli Roth,"Keanu Reeves, Lorenza Izzo, Ana de Armas, Aaron Burns",4.9,0.03,58570,4.631908831908833,34383.0,293282.0
+197,Dirty Grandpa,Dan Mazer,"Robert De Niro, Zac Efron, Zoey Deutch, Aubrey Plaza",6.0,35.54,236657,13.719895287958114,16036514.0,3.0
+198,Cloud Atlas,Tom Tykwer,"Tom Hanks, Halle Berry, Hugh Grant, Hugo Weaving",7.5,27.1,233,27.235110803324105,15321132.0,108.0
+199,X-Men Origins: Wolverine,Gavin Hood,"Hugh Jackman, Liev Schreiber, Ryan Reynolds, Danny Huston",6.7,179.88,14328359,25.393939393939394,12455627.0,117.0
+200,Skyfall,Sam Mendes,"Daniel Craig, Javier Bardem, Naomie Harris, Judi Dench",7.8,304.36,242142,23.230334637114296,40641.0,159.0
+201,The Hobbit: An Unexpected Journey,Peter Jackson,"Martin Freeman, Ian McKellen, Richard Armitage,Andy Serkis",7.9,303.0,7343723,36.017353579175705,3902876.0,50874.0
+202,21 Jump Street,Phil Lord,"Jonah Hill, Channing Tatum, Ice Cube,Brie Larson",7.2,138.45,3745843,14.561688311688313,8854752.0,373.0
+203,Sing Street,John Carney,"Ferdia Walsh-Peelo, Aidan Gillen, Maria Doyle Kennedy, Jack Reynor",8.0,3.23,94060,67.69364161849711,54.0,494.0
+204,Oblivion,Joseph Kosinski,"Tom Cruise, Morgan Freeman, Andrea Riseborough, Olga Kurylenko",7.0,89.02,384131,19.191666666666666,6730699.0,210.0
+205,22 Jump Street,Phil Lord,"Channing Tatum, Jonah Hill, Ice Cube,Nick Offerman",7.1,191.62,3745843,48.17587939698493,8854752.0,373.0
+206,Iron Man Three,Shane Black,"Robert Downey Jr., Guy Pearce, Gwyneth Paltrow,Don Cheadle",7.2,408.99,19162040,20.592788971367973,10367490.0,368.0
+207,Sherlock Holmes,Guy Ritchie,"Robert Downey Jr., Jude Law, Rachel McAdams, Mark Strong",7.6,209.02,9622284,32.29577464788732,10367490.0,17.0
+208,The Danish Girl,Tom Hooper,"Eddie Redmayne, Alicia Vikander, Amber Heard, Ben Whishaw",7.0,12.71,706975,9.439583027455587,73469.0,232.0
+209,Hercules,Brett Ratner,"Dwayne Johnson, John Hurt, Ian McShane, Joseph Fiennes",6.0,72.66,969511,13.122940430925224,12689385.0,253645.0
+210,Sucker Punch,Zack Snyder,"Emily Browning, Vanessa Hudgens, Abbie Cornish,Jena Malone",6.1,36.38,1590167,17.173387096774196,7471259.0,626671.0
+211,Keeping Up with the Joneses,Greg Mottola,"Zach Galifianakis, Isla Fisher, Jon Hamm, Gal Gadot",5.8,14.9,43839,28.751412429378533,3861205.0,35144.0
+212,Masterminds,Jared Hess,"Zach Galifianakis, Kristen Wiig, Owen Wilson, Ross Kimball",5.8,17.36,130267,12.782934131736527,3861205.0,716.0
+213,Pitch Perfect,Jason Moore,"Anna Kendrick, Brittany Snow, Rebel Wilson, Anna Camp",7.2,65.0,6081417,35.369369369369366,7099391.0,770.0
+214,Neighbors 2: Sorority Rising,Nicholas Stoller,"Seth Rogen, Rose Byrne, Zac Efron, Chloë Grace Moretz",5.7,55.29,1987,32.660570592538406,16036515.0,24512.0
+215,Man of Steel,Zack Snyder,"Henry Cavill, Amy Adams, Michael Shannon, Diane Lane",7.1,291.02,3874829,23.82283161300262,53257.0,626671.0
+216,The Choice,Ross Katz,"Benjamin Walker, Teresa Palmer, Alexandra Daddario,Maggie Grace",6.6,18.71,258138,20.152428810720266,157837.0,7.0
+217,The Devil Wears Prada,David Frankel,"Anne Hathaway, Meryl Streep, Adrian Grenier, Emily Blunt",6.8,124.73,2221716,35.516129032258064,368161.0,16.0
+218,The Infiltrator,Brad Furman,"Bryan Cranston, John Leguizamo, Diane Kruger, Amy Ryan",7.1,15.43,185688,30.69526627218935,2169683.0,880.0
+219,The Equalizer,Antoine Fuqua,"Denzel Washington, Marton Csokas, Chloë Grace Moretz, David Harbour",7.2,101.53,515988,25.47272727272728,3276830.0,14.0
+220,Lone Survivor,Peter Berg,"Mark Wahlberg, Taylor Kitsch, Emile Hirsch, Ben Foster",7.5,125.07,265796,11.944894651539707,3825714.0,516.0
+221,The Cabin in the Woods,Drew Goddard,"Kristen Connolly, Chris Hemsworth, Anna Hutchison,Fran Kranz",7.0,42.04,661956,12.621578099838967,3034110.0,284.0
+222,The House Bunny,Fred Wolf,"Anna Faris, Colin Hanks, Emma Stone, Kat Dennings",5.5,48.24,76616,34.09756097560975,503795.0,17.0
+223,Alice Through the Looking Glass,James Bobin,"Mia Wasikowska, Johnny Depp, Helena Bonham Carter, Anne Hathaway",6.2,77.04,15112217,26.57409274193548,3295.0,1.0
+224,The Fast and the Furious: Tokyo Drift,Justin Lin,"Lucas Black, Zachery Ty Bryan, Shad Moss, Damien Marzette",6.0,62.49,60746271,17.84090909090909,1524.0,79693.0
+225,How to Be Single,Christian Ditter,"Dakota Johnson, Rebel Wilson, Leslie Mann, Alison Brie",6.1,46.81,355842,24.003205128205128,2958654.0,2807.0
+226,The Blind Side,John Lee Hancock,"Quinton Aaron, Sandra Bullock, Tim McGraw,Jae Head",7.7,255.95,8411238,84.80790960451978,3048313.0,117.0
+227,The Babadook,Jennifer Kent,"Essie Davis, Noah Wiseman, Daniel Henshall, Hayley McElhinney",6.8,0.92,26444,15.858575197889182,696.0,247.0
+228,The Hobbit: The Battle of the Five Armies,Peter Jackson,"Ian McKellen, Martin Freeman, Richard Armitage,Cate Blanchett",7.4,255.11,14200,35.34032376747609,3902877.0,50874.0
+229,Harry Potter and the Order of the Phoenix,David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint, Brendan Gleeson",7.5,292.0,4898,48.050632911392405,28809834.0,145.0
+230,Snowpiercer,Bong Joon Ho,"Chris Evans, Jamie Bell, Tilda Swinton, Ed Harris",7.0,4.56,103347,20.76082474226804,8651203.0,1.0
+231,The 5th Wave,J Blakeson,"Chloë Grace Moretz, Matthew Zuk, Gabriela Lopez,Bailey Anne Borders",5.2,34.91,706643,17.38340978593272,3276830.0,2404.0
+232,The Visit,M. Night Shyamalan,"Olivia DeJonge, Ed Oxenbould, Deanna Dunagan, Peter McRobbie",6.2,65.07,809901,8.5288256227758,4038.0,137483.0
+233,Fast Five,Justin Lin,"Vin Diesel, Paul Walker, Dwayne Johnson, Jordana Brewster",7.3,209.81,694,17.621052631578948,12689386.0,79693.0
+234,Step Up,Anne Fletcher,"Channing Tatum, Jenna Dewan Tatum, Damaine Radcliff, De'Shawn Washington",6.5,65.27,18590070,16.144144144144143,8854753.0,5.0
+235,RocknRolla,Guy Ritchie,"Gerard Butler, Tom Wilkinson, Idris Elba, Thandie Newton",7.3,5.69,280801,9.811764705882354,2490136.0,17.0
+236,In Time,Andrew Niccol,"Justin Timberlake, Amanda Seyfried, Cillian Murphy,Olivia Wilde",6.7,37.55,126240,18.79789473684211,65472543.0,24.0
+237,The Last Witch Hunter,Breck Eisner,"Vin Diesel, Rose Leslie, Elijah Wood, Ólafur Darri Ólafsson",6.0,27.36,439749,16.888698630136982,908088.0,31.0
+238,Victor Frankenstein,Paul McGuigan,"Daniel Radcliffe, James McAvoy, Jessica Brown Findlay, Andrew Scott",6.0,5.77,90622,16.70400878638111,35710.0,1.0
+239,Green Room,Jeremy Saulnier,"Anton Yelchin, Imogen Poots, Alia Shawkat,Patrick Stewart",7.0,3.22,68421,9.954545454545457,44187.0,3.0
+240,Blackhat,Michael Mann,"Chris Hemsworth, Viola Davis, Wei Tang, Leehom Wang",5.4,7.1,956152,8.750617283950618,3034111.0,1008.0
+241,Storks,Nicholas Stoller,"Andy Samberg, Katie Crown,Kelsey Grammer, Jennifer Aniston",6.9,72.66,342153,20.53731343283582,88060.0,24512.0
+242,American Sniper,Clint Eastwood,"Bradley Cooper, Sienna Miller, Kyle Gallner, Cole Konis",7.3,350.12,2293342,8.159622195985833,41014.0,549.0
+243,Lincoln,Steven Spielberg,"Daniel Day-Lewis, Sally Field, David Strathairn,Joseph Gordon-Levitt",7.4,182.2,421212,15.153508771929824,103.0,533.0
+244,Rush,Ron Howard,"Daniel Brühl, Chris Hemsworth, Olivia Wilde,Alexandra Maria Lara",8.1,26.9,645850,24.31707317073171,3034111.0,2439784.0
+245,Silver Linings Playbook,David O. Russell,"Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver",7.8,132.09,104616,31.58490566037736,41014.0,549.0
+246,The Fault in Our Stars,Josh Boone,"Shailene Woodley, Ansel Elgort, Nat Wolff, Laura Dern",7.8,124.87,11015944,74.26905829596413,3914351.0,453.0
+247,Blended,Frank Coraci,"Adam Sandler, Drew Barrymore, Wendi McLendon-Covey, Kevin Nealon",6.5,46.28,467244,11.356390288593678,2160791.0,294.0
+248,Fast & Furious,Justin Lin,"Vin Diesel, Paul Walker, Michelle Rodriguez, Jordana Brewster",6.6,155.02,60746270,17.65174129353234,189512.0,79693.0
+249,Looper,Rian Johnson,"Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano",7.4,66.47,950825,24.57271095152604,51279.0,853401.0
+250,White House Down,Roland Emmerich,"Channing Tatum, Jamie Foxx, Maggie Gyllenhaal,Jason Clarke",6.4,73.1,659608,7.738831615120275,8854753.0,111343.0
+251,Pete's Dragon,David Lowery,"Bryce Dallas Howard, Robert Redford, Oakes Fegley,Oona Laurence",6.8,76.2,183428,11.135593220338983,135067.0,71.0
+252,The Three Musketeers,Paul W.S. Anderson,"Logan Lerman, Matthew Macfadyen, Ray Stevenson, Milla Jovovich",5.8,20.32,535042,12.0,1496140.0,251.0
+253,American Hustle,David O. Russell,"Christian Bale, Amy Adams, Bradley Cooper,Jennifer Lawrence",7.3,150.12,668637,11.587759815242492,41014.0,549.0
+254,Midnight in Paris,Woody Allen,"Owen Wilson, Rachel McAdams, Kathy Bates, Kurt Fuller",7.7,56.82,735974,26.43076923076923,1301.0,1994.0
+255,Joy,David O. Russell,"Jennifer Lawrence, Robert De Niro, Bradley Cooper, Edgar Ramírez",6.6,56.44,232864,12.620317002881846,41014.0,549.0
+256,Café Society,Woody Allen,"Jesse Eisenberg, Kristen Stewart, Steve Carell, Blake Lively",6.7,11.08,44410,14.921052631578947,5356851.0,1994.0
+257,The Theory of Everything,James Marsh,"Eddie Redmayne, Felicity Jones, Tom Prior, Sophie Perry",7.7,35.89,765547,70.14698795180722,73469.0,142.0
+258,This Is the End,Evan Goldberg,"James Franco, Jonah Hill, Seth Rogen,Jay Baruchel",6.6,101.47,108391,42.77857142857143,7491963.0,20.0
+259,About Time,Richard Curtis,"Domhnall Gleeson, Rachel McAdams, Bill Nighy,Lydia Wilson",7.8,15.29,429360,46.18013856812933,1301.0,2522.0
+260,Step Brothers,Adam McKay,"Will Ferrell, John C. Reilly, Mary Steenburgen,Richard Jenkins",6.9,100.47,9180207,21.728395061728396,29030.0,3.0
+261,Clown,Jon Watts,"Andy Powers, Laura Allen, Peter Stormare, Christian Distefano",5.7,0.05,740,11.428419936373274,461.0,1772.0
+262,Star Trek Into Darkness,J.J. Abrams,"Chris Pine, Zachary Quinto, Zoe Saldana, Benedict Cumberbatch",7.8,228.76,3770921,20.511533242876528,1160924.0,1.0
+263,Zombieland,Ruben Fleischer,"Jesse Eisenberg, Emma Stone, Woody Harrelson,Abigail Breslin",7.7,75.59,34243,18.528428093645484,32719.0,13909.0
+264,"Hail, Caesar!",Ethan Coen,"Josh Brolin, George Clooney, Alden Ehrenreich, Ralph Fiennes",6.3,30.0,202333,11.276683937823837,1389.0,1403.0
+265,Slumdog Millionaire,Danny Boyle,"Dev Patel, Freida Pinto, Saurabh Shukla, Anil Kapoor",8.0,141.32,2569902,18.076286764705888,22001.0,275.0
+266,The Twilight Saga: Breaking Dawn - Part 2,Bill Condon,"Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli",5.5,292.3,14238032,2.5,189343.0,112.0
+267,The Amazing Spider-Man,Marc Webb,"Andrew Garfield, Emma Stone, Rhys Ifans, Irrfan Khan",7.0,262.03,20603631,9.749752964426877,32719.0,740.0
+268,Sleight,J.D. Dillard,"Jacob Latimore, Seychelle Gabriel, Dulé Hill, Storm Reid",6.0,3.85,136059,21.222493887530558,492418.0,89.0
+269,The Maze Runner,Wes Ball,"Dylan O'Brien, Kaya Scodelario, Will Poulter, Thomas Brodie-Sangster",6.8,102.41,4202635,38.918815663801354,4962606.0,102530.0
+270,Florence Foster Jenkins,Stephen Frears,"Meryl Streep, Hugh Grant, Simon Helberg, Rebecca Ferguson",6.9,27.37,44234,24.832669322709158,890354.0,68.0
+271,Collide,Eran Creevy,"Nicholas Hoult, Felicity Jones, Anthony Hopkins, Ben Kingsley",5.7,2.2,3169,9.487623762376238,491139.0,132.0
+272,Black Mass,Scott Cooper,"Johnny Depp, Benedict Cumberbatch, Dakota Johnson, Joel Edgerton",6.9,62.56,3999,38.86847599164928,100563.0,382.0
+273,Creed,Ryan Coogler,"Michael B. Jordan, Sylvester Stallone, Tessa Thompson, Phylicia Rashad",7.6,109.71,969443,33.74273858921162,157606.0,476.0
+274,Swiss Army Man,Dan Kwan,"Paul Dano, Daniel Radcliffe, Mary Elizabeth Winstead, Antonia Ribero",7.1,4.21,192507,13.588712871287127,35710.0,13.0
+275,The Expendables 3,Patrick Hughes,"Sylvester Stallone, Jason Statham, Jet Li, Antonio Banderas",6.1,39.29,8089004,23.37708066581306,14900.0,227.0
+276,Southpaw,Antoine Fuqua,"Jake Gyllenhaal, Rachel McAdams, Oona Laurence,Forest Whitaker",7.4,52.42,335243,28.19222071460877,3650.0,14.0
+277,Bridge of Spies,Steven Spielberg,"Tom Hanks, Mark Rylance, Alan Alda, Amy Ryan",7.6,72.31,108728,23.38351254480287,15321135.0,533.0
+278,The Lego Movie,Phil Lord,"Chris Pratt, Will Ferrell, Elizabeth Banks, Will Arnett",7.8,257.76,1952769,15.228654970760234,5210287.0,373.0
+279,Pixels,Chris Columbus,"Adam Sandler, Kevin James, Michelle Monaghan,Peter Dinklage",5.6,78.75,759396,12.288135593220339,2160791.0,145.0
+280,Robin Hood,Ridley Scott,"Russell Crowe, Cate Blanchett, Matthew Macfadyen,Max von Sydow",6.7,105.22,75925,13.08433734939759,2747740.0,45.0
+281,The Wolverine,James Mangold,"Hugh Jackman, Will Yun Lee, Tao Okamoto, Rila Fukushima",6.7,132.55,10940479,18.572151898734177,12455643.0,41.0
+282,John Carter,Andrew Stanton,"Taylor Kitsch, Lynn Collins, Willem Dafoe,Samantha Morton",6.6,73.06,725864,11.811529933481154,20326.0,58405.0
+283,The Gunman,Pierre Morel,"Sean Penn, Idris Elba, Jasmine Trinca, Javier Bardem",5.8,10.64,104034,10.786749482401657,2490137.0,3966.0
+284,Steve Jobs,Danny Boyle,"Michael Fassbender, Kate Winslet, Seth Rogen, Jeff Daniels",7.2,17.75,473418,13.391405342624855,7491963.0,275.0
+285,Minions,Kyle Balda,"Sandra Bullock, Jon Hamm, Michael Keaton, Pierre Coffin",6.4,336.03,34628753,17.6239775648516,459277.0,63.0
+286,Despicable Me,Pierre Coffin,"Steve Carell, Jason Segel, Russell Brand, Julie Andrews",7.7,251.5,18224741,3.1005172026085,5356851.0,18.0
+287,The Best of Me,Michael Hoffman,"James Marsden, Michelle Monaghan, Luke Bracey,Liana Liberato",6.7,26.76,1042251,45.51348314606742,18263.0,8797.0
+288,Zero Dark Thirty,Kathryn Bigelow,"Jessica Chastain, Joel Edgerton, Chris Pratt, Mark Strong",7.4,95.72,259885,10.16788321167883,5210288.0,5.0
+289,The Hunger Games: Mockingjay - Part 2,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson",6.6,281.67,21400352,34.669839679358724,2889009.0,14.0
+290,Taken,Pierre Morel,"Liam Neeson, Maggie Grace, Famke Janssen, Leland Orser",7.8,145.0,4584691,35.529411764705884,110527.0,3966.0
+291,Pitch Perfect 2,Elizabeth Banks,"Anna Kendrick, Rebel Wilson, Hailee Steinfeld,Brittany Snow",6.5,183.44,6081417,38.1386593204775,7099399.0,2351804.0
+292,Monsters University,Dan Scanlon,"Billy Crystal, John Goodman, Steve Buscemi, Helen Mirren",7.3,268.49,5163018,12.84393063583815,663680.0,83.0
+293,Mechanic: Resurrection,Dennis Gansel,"Jason Statham, Jessica Alba, Tommy Lee Jones,Michelle Yeoh",5.6,21.2,846768,27.79787234042553,9653251.0,159.0
+294,Tusk,Kevin Smith,"Justin Long, Michael Parks, Haley Joel Osment,Genesis Rodriguez",5.4,1.82,27576,11.06122448979592,187813.0,3346809.0
+295,Atonement,Joe Wright,"Keira Knightley, James McAvoy, Brenda Blethyn,Saoirse Ronan",7.8,50.92,333266,37.2,22060.0,2117.0
+296,Harry Potter and the Deathly Hallows: Part 1,David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint, Bill Nighy",7.7,294.98,9090,30.63414634146341,28809926.0,145.0
+297,Shame,Steve McQueen,"Michael Fassbender, Carey Mulligan, James Badge Dale, Lucy Walters",7.2,4.0,62728,14.898989898989901,5434.0,239.0
+298,Hanna,Joe Wright,"Saoirse Ronan, Cate Blanchett, Eric Bana, Vicky Krieps",6.8,40.25,269748,20.329545454545453,18176.0,2117.0
+299,300: Rise of an Empire,Noam Murro,"Sullivan Stapleton, Eva Green, Lena Headey, Hans Matheson",6.2,106.37,10476627,21.17532467532468,1079579.0,6.0
+300,London Has Fallen,Babak Najafi,"Gerard Butler, Aaron Eckhart, Morgan Freeman,Angela Bassett",5.9,62.4,645669,11.091167192429022,502646.0,4.0
+301,The Curious Case of Benjamin Button,David Fincher,"Brad Pitt, Cate Blanchett, Tilda Swinton, Julia Ormond",7.8,127.49,1542768,46.36363636363637,18176.0,14330.0
+302,Sin City: A Dame to Kill For,Frank Miller,"Mickey Rourke, Jessica Alba, Josh Brolin, Joseph Gordon-Levitt",6.5,13.75,8898,30.494949494949488,9653251.0,371.0
+303,The Bourne Ultimatum,Paul Greengrass,"Matt Damon, Edgar Ramírez, Joan Allen, Julia Stiles",8.1,227.14,2561621,22.14583333333333,1419619.0,79.0
+304,The Purge: Election Year,James DeMonaco,"Frank Grillo, Elizabeth Mitchell, Mykelti Williamson, Joseph Julian Soria",6.0,79.0,151719,15.368567454798331,10583.0,93.0
+305,3 Idiots,Rajkumar Hirani,"Aamir Khan, Madhavan, Mona Singh, Sharman Joshi",8.4,6.52,2459831,15.694174757281553,23042156.0,470919.0
+306,Zoolander 2,Ben Stiller,"Ben Stiller, Owen Wilson, Penélope Cruz, Will Ferrell",4.7,28.84,1537427,15.70323434840174,6065177.0,6065177.0
+307,World War Z,Marc Forster,"Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",7.0,202.35,2652554,15.580645161290322,669.0,448.0
+308,Mission: Impossible - Ghost Protocol,Brad Bird,"Tom Cruise, Jeremy Renner, Simon Pegg, Paula Patton",7.4,209.36,3365241,24.268656716417908,6730722.0,118457.0
+309,Filth,Jon S. Baird,"James McAvoy, Jamie Bell, Eddie Marsan, Imogen Poots",7.1,0.03,57871,22.41567695961995,156009.0,5119.0
+310,The Longest Ride,George Tillman Jr.,"Scott Eastwood, Britt Robertson, Alan Alda, Jack Huston",7.1,37.43,863189,30.591338582677164,216451.0,6.0
+311,The imposible,J.A. Bayona,"Naomi Watts, Ewan McGregor, Tom Holland, Oaklee Pendergast",7.6,19.0,224751,30.66318719554628,1407798.0,1.0
+312,Kick-Ass 2,Jeff Wadlow,"Aaron Taylor-Johnson, Chloë Grace Moretz,Christopher Mintz-Plasse, Jim Carrey",6.6,28.75,65981,20.609756097560968,3276836.0,7077.0
+313,Oz the Great and Powerful,Sam Raimi,"James Franco, Michelle Williams, Rachel Weisz, Mila Kunis",6.3,234.9,1289591,16.244137931034484,635.0,94.0
+314,Brooklyn,John Crowley,"Saoirse Ronan, Emory Cohen, Domhnall Gleeson,Jim Broadbent",7.5,38.32,63092,83.635838150289,6172.0,355.0
+315,Blue Valentine,Derek Cianfrance,"Ryan Gosling, Michelle Williams, John Doman,Faith Wladyka",7.4,9.7,341343,18.88571428571429,2339472.0,281.0
+316,Silent Hill,Christophe Gans,"Radha Mitchell, Laurie Holden, Sean Bean,Deborah Kara Unger",6.6,46.98,1578709,25.346820809248552,425.0,4.0
+317,Dredd,Pete Travis,"Karl Urban, Olivia Thirlby, Lena Headey, Rachel Wood",7.1,13.4,482889,9.103503184713377,1079579.0,2.0
+318,Hunt for the Wilderpeople,Taika Waititi,"Sam Neill, Julian Dennison, Rima Te Wiata, Rachel House",7.9,5.2,96936,31.02255639097744,6507.0,341732.0
+319,Big Hero 6,Don Hall,"Ryan Potter, Scott Adsit, Jamie Chung,T.J. Miller",7.8,222.49,2430213,23.60668789808917,192105.0,1272.0
+320,Carrie,Kimberly Peirce,"Chloë Grace Moretz, Julianne Moore, Gabriella Wilde, Portia Doubleday",5.9,35.27,1664408,22.399020807833534,3276836.0,10.0
+321,Pandorum,Christian Alvart,"Dennis Quaid, Ben Foster, Cam Gigandet, Antje Traue",6.8,10.33,25264,9.724590163934426,226681.0,3.0
+322,Olympus Has Fallen,Antoine Fuqua,"Gerard Butler, Aaron Eckhart, Morgan Freeman,Angela Bassett",6.5,98.9,645669,12.950073421439061,502646.0,14.0
+323,I Am Number Four,D.J. Caruso,"Alex Pettyfer, Timothy Olyphant, Dianna Agron, Teresa Palmer",6.1,55.09,388309,23.190476190476193,2023739.0,146.0
+324,The Proposal,Anne Fletcher,"Sandra Bullock, Ryan Reynolds, Mary Steenburgen,Craig T. Nelson",6.7,163.95,3378631,15.75,10203518.0,5.0
+325,Get Hard,Etan Cohen,"Will Ferrell, Kevin Hart, Alison Brie, T.I.",6.0,90.35,262396,18.209177592371873,35118319.0,40.0
+326,The Town,Ben Affleck,"Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner",7.6,92.17,3187,22.914956011730204,2918799.0,2918799.0
+327,Denial,Mick Jackson,"Rachel Weisz, Tom Wilkinson, Timothy Spall, Andrew Scott",6.6,4.07,15692,1.2649738321380113,2154.0,63.0
+328,Goosebumps,Rob Letterman,"Jack Black, Dylan Minnette, Odeya Rush, Ryan Lee",6.3,80.02,445046,24.296296296296298,342725.0,35.0
+329,Sherlock Holmes: A Game of Shadows,Guy Ritchie,"Robert Downey Jr., Jude Law, Jared Harris, Rachel McAdams",7.5,186.83,9622284,30.577777777777786,10367606.0,17.0
+330,Salt,Phillip Noyce,"Angelina Jolie, Liev Schreiber, Chiwetel Ejiofor, Daniel Olbrychski",6.4,118.31,8787,15.2234273318872,214711.0,42.0
+331,Enemy,Denis Villeneuve,"Jake Gyllenhaal, Mélanie Laurent, Sarah Gadon,Isabella Rossellini",6.9,1.01,349,19.966906474820146,30832.0,898.0
+332,District 9,Neill Blomkamp,"Sharlto Copley, David James, Jason Cope, Nathalie Boltt",8.0,115.65,1183845,21.612244897959183,785.0,63525.0
+333,The Other Guys,Adam McKay,"Will Ferrell, Mark Wahlberg, Derek Jeter, Eva Mendes",6.7,119.22,2236212,27.89693593314763,3825714.0,3.0
+334,American Gangster,Ridley Scott,"Denzel Washington, Russell Crowe, Chiwetel Ejiofor,Josh Brolin",7.8,130.13,1693,28.40909090909091,2747744.0,45.0
+335,Marie Antoinette,Sofia Coppola,"Kirsten Dunst, Jason Schwartzman, Rip Torn, Judy Davis",6.4,15.96,516,23.271428571428572,493356.0,31.0
+336,2012,Roland Emmerich,"John Cusack, Thandie Newton, Chiwetel Ejiofor,Amanda Peet",5.8,166.11,17767089,5.8263888888888875,1700441.0,111343.0
+337,Harry Potter and the Half-Blood Prince,David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon",7.5,301.96,11937,81.35,28809931.0,145.0
+338,Argo,Ben Affleck,"Ben Affleck, Bryan Cranston, John Goodman, Alan Arkin",7.7,136.02,1293620,7.109826589595376,2918799.0,2918799.0
+339,Eddie the Eagle,Dexter Fletcher,"Taron Egerton, Hugh Jackman, Tom Costello, Jo Hartley",7.4,15.79,72381,47.64942528735632,12455721.0,7.0
+340,Forgetting Sarah Marshall,Nicholas Stoller,"Kristen Bell, Jason Segel, Paul Rudd, Mila Kunis",7.2,62.88,520,30.02684563758389,2396427.0,24512.0
+341,The Giver,Phillip Noyce,"Brenton Thwaites, Jeff Bridges, Meryl Streep, Taylor Swift",6.5,45.09,1180,27.024494142705013,66625.0,42.0
+342,Triple 9,John Hillcoat,"Casey Affleck, Chiwetel Ejiofor, Anthony Mackie,Aaron Paul",6.3,12.63,114109,19.693032015065913,541088.0,432.0
+343,Angry Birds,Clay Kaytis,"Jason Sudeikis, Josh Gad, Danny McBride, Maya Rudolph",6.3,107.51,1104397,11.106970324361631,348131.0,14878.0
+344,Moonrise Kingdom,Wes Anderson,"Jared Gilman, Kara Hayward, Bruce Willis, Bill Murray",7.8,45.51,364180,30.49479166666667,2614.0,4559.0
+345,Hairspray,Adam Shankman,"John Travolta, Queen Latifah, Nikki Blonsky,Michelle Pfeiffer",6.7,118.82,2341417,38.253968253968246,8229003.0,292881.0
+346,Stake Land,Jim Mickle,"Connor Paolo, Nick Damici, Kelly McGillis, Gregory Jones",6.5,0.02,4633,9.6,697.0,14.0
+347,The Book of Eli,Albert Hughes,"Denzel Washington, Mila Kunis, Ray Stevenson, Gary Oldman",6.9,94.82,1357223,16.320987654320987,1221.0,270.0
+348,Cloverfield,Matt Reeves,"Mike Vogel, Jessica Lucas, Lizzy Caplan, T.J. Miller",7.0,80.03,534529,17.681818181818183,38190.0,45735.0
+349,Under the Skin,Jonathan Glazer,"Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay, Dougie McConnell",6.3,2.61,94301,7.226130653266332,4352.0,150.0
+350,I Am Legend,Francis Lawrence,"Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield",7.2,256.39,7800110,36.345238095238095,106921.0,14.0
+351,Men in Black 3,Barry Sonnenfeld,"Will Smith, Tommy Lee Jones, Josh Brolin,Jemaine Clement",6.8,179.02,8097855,53.59291338582677,106921.0,285.0
+352,Super 8,J.J. Abrams,"Elle Fanning, AJ Michalka, Kyle Chandler, Joel Courtney",7.1,126.98,964302,23.617647058823533,9996.0,1.0
+353,Law Abiding Citizen,F. Gary Gray,"Gerard Butler, Jamie Foxx, Leslie Bibb, Colm Meaney",7.4,73.34,1023988,31.50892857142857,4841602.0,1.0
+354,Up,Pete Docter,"Edward Asner, Jordan Nagai, John Ratzenberger, Christopher Plummer",8.3,292.98,17651652,10.08125,78438.0,1952.0
+355,Maze Runner: The Scorch Trials,Wes Ball,"Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster,Giancarlo Esposito",6.3,81.69,4202635,54.812316715542536,4962607.0,102530.0
+356,Carol,Todd Haynes,"Cate Blanchett, Rooney Mara, Sarah Paulson, Kyle Chandler",7.2,0.25,27444,9.67524115755627,858087.0,57.0
+357,Youth,Paolo Sorrentino,"Michael Caine, Harvey Keitel, Rachel Weisz, Jane Fonda",7.3,2.7,29783,20.452282157676347,1382.0,72.0
+358,Savages,Oliver Stone,"Aaron Taylor-Johnson, Taylor Kitsch, Blake Lively,Benicio Del Toro",6.5,47.31,160838,15.8265306122449,896245.0,237.0
+359,(500) Days of Summer,Marc Webb,"Zooey Deschanel, Joseph Gordon-Levitt, Geoffrey Arend, Chloë Grace Moretz",7.7,32.39,2974306,38.52854671280277,6687622.0,740.0
+360,Movie 43,Elizabeth Banks,"Emma Stone, Stephen Merchant, Richard Gere, Liev Schreiber",4.3,8.83,250095,5.840628507295174,624570.0,2351813.0
+361,Gravity,Alfonso Cuarón,"Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen",7.8,274.08,1219000,9.321739130434784,1389.0,52777.0
+362,The Boy in the Striped Pyjamas,Mark Herman,"Asa Butterfield, David Thewlis, Rupert Friend, Zac Mattoon O'Brien",7.8,9.03,602383,36.518518518518526,45002.0,1931.0
+363,The Happening,M. Night Shyamalan,"Mark Wahlberg, Zooey Deschanel, John Leguizamo, Ashlyn Sanchez",5.0,64.51,47020,11.473684210526311,6687622.0,137484.0
+364,Easy A,Will Gluck,"Emma Stone, Amanda Bynes, Penn Badgley, Dan Byrd",7.1,58.4,5735076,48.988439306358394,3199656.0,266.0
+365,Exodus: Gods and Kings,Ridley Scott,"Christian Bale, Joel Edgerton, Ben Kingsley, Sigourney Weaver",6.0,65.01,313178,7.965725806451613,25031.0,45.0
+366,Chappie,Neill Blomkamp,"Sharlto Copley, Dev Patel, Hugh Jackman,Sigourney Weaver",6.9,31.57,497580,17.44138634046891,12455956.0,63527.0
+367,The Hobbit: The Desolation of Smaug,Peter Jackson,"Ian McKellen, Martin Freeman, Richard Armitage,Ken Stott",7.9,258.36,7343721,33.87814070351759,3902905.0,50874.0
+368,Half of a Yellow Sun,Biyi Bandele,"Chiwetel Ejiofor, Thandie Newton, Anika Noni Rose,Joseph Mawle",6.2,0.05,12451,0.3271794871794872,118969.0,1636.0
+369,Anthropoid,Sean Ellis,"Jamie Dornan, Cillian Murphy, Brian Caspe, Karel Hermánek Jr.",7.2,2.96,12432,22.02664298401421,2932.0,123333.0
+370,The Counselor,Ridley Scott,"Michael Fassbender, Penélope Cruz, Cameron Diaz,Javier Bardem",5.3,16.97,203726,15.43728813559322,703681.0,45.0
+371,Trust,David Schwimmer,"Clive Owen, Catherine Keener, Liana Liberato,Jason Clarke",7.0,0.06,1287,21.49253731343284,56046.0,366229.0
+372,Birth of the Dragon,George Nolfi,"Billy Magnussen, Terry Chen, Teresa Navarro,Vanessa Ross",3.9,93.05,191128,8.331125827814569,9406.0,35.0
+373,The Green Inferno,Eli Roth,"Lorenza Izzo, Ariel Levy, Aaron Burns, Kirby Bliss Blanton",5.4,7.19,256587,7.555112881806109,34384.0,293283.0
+374,Godzilla,Gareth Edwards,"Aaron Taylor-Johnson, Elizabeth Olsen, Bryan Cranston, Ken Watanabe",6.4,200.66,2627925,26.19868756835581,2169666.0,265.0
+375,A Good Year,Ridley Scott,"Russell Crowe, Abbie Cornish, Albert Finney, Marion Cotillard",6.9,7.46,199,26.33333333333333,2747741.0,45.0
+376,Friend Request,Simon Verhoeven,"Alycia Debnam-Carey, William Moseley, Connor Paolo, Brit Morgan",5.4,64.03,8253,5.323795898903195,105338.0,58.0
+377,Lucy,Luc Besson,"Scarlett Johansson, Morgan Freeman, Min-sik Choi,Amr Waked",6.4,126.55,2354840,17.175478708202345,6890.0,1457971.0
+378,A Quiet Passion,Terence Davies,"Cynthia Nixon, Jennifer Ehle, Duncan Duff, Keith Carradine",7.2,1.08,937,33.94285714285714,71427.0,1.0
+379,Need for Speed,Scott Waugh,"Aaron Paul, Dominic Cooper, Imogen Poots, Scott Mescudi",6.5,43.57,19648743,23.786721504112805,2767026.0,757.0
+380,The Do-Over,Steven Brill,"Adam Sandler, David Spade, Paula Patton, Kathryn Hahn",5.7,0.54,97312,6.796768707482992,2805959.0,7817.0
+381,The Ghost Writer,Roman Polanski,"Ewan McGregor, Pierce Brosnan, Olivia Williams,Jon Bernthal",7.2,15.52,68741,12.181818181818182,1407800.0,235.0
+382,Limitless,Neil Burger,"Bradley Cooper, Anna Friel, Abbie Cornish, Robert De Niro",7.4,79.24,1497750,26.494623655913983,41014.0,9012.0
+383,Midnight Special,Jeff Nichols,"Michael Shannon, Joel Edgerton, Kirsten Dunst, Adam Driver",6.7,3.71,27480,17.32943925233645,493356.0,92.0
+384,Don't Think Twice,Mike Birbiglia,"Keegan-Michael Key, Gillian Jacobs, Mike Birbiglia,Chris Gethard",6.8,4.42,24896,9.970297029702973,490605.0,1443.0
+385,Alice in Wonderland,Tim Burton,"Mia Wasikowska, Johnny Depp, Helena Bonham Carter,Anne Hathaway",6.5,334.19,5524287,18.428330522765602,3295.0,112101.0
+386,The Break-Up,Peyton Reed,"Jennifer Aniston, Vince Vaughn, Jon Favreau, Joey Lauren Adams",5.8,118.68,909,26.901785714285715,4186.0,246.0
+387,Loving,Jeff Nichols,"Ruth Negga, Joel Edgerton, Will Dalton, Dean Mumford",7.1,7.7,372223,33.96649916247906,25031.0,92.0
+388,Fantastic Four,Josh Trank,"Miles Teller, Kate Mara, Michael B. Jordan, Jamie Bell",4.3,56.11,1593205,5.087417702999269,250022.0,435.0
+389,The Boy Next Door,Rob Cohen,"Jennifer Lopez, Ryan Guzman, Kristin Chenoweth, John Corbett",4.6,35.39,462114,16.60708534621578,45118409.0,501.0
+390,The Gift,Joel Edgerton,"Jason Bateman, Rebecca Hall, Joel Edgerton, Allison Tolman",7.1,43.77,88626,18.822222222222226,1813021.0,25031.0
+391,Dracula Untold,Gary Shore,"Luke Evans, Dominic Cooper, Sarah Gadon, Art Parkinson",6.3,55.94,74590,17.454326923076927,30832.0,1.0
+392,In the Heart of the Sea,Ron Howard,"Chris Hemsworth, Cillian Murphy, Brendan Gleeson,Ben Whishaw",6.9,24.99,240841,22.991712707182327,3034192.0,2439837.0
+393,Idiocracy,Mike Judge,"Luke Wilson, Maya Rudolph, Dax Shepard, Terry Crews",6.6,0.44,183768,20.36842105263158,954229.0,132873.0
+394,The Expendables,Sylvester Stallone,"Sylvester Stallone, Jason Statham, Jet Li, Dolph Lundgren",6.5,102.98,11133855,22.47945205479452,14899.0,2819.0
+395,Evil Dead,Fede Alvarez,"Jane Levy, Shiloh Fernandez, Jessica Lucas, Lou Taylor Pucci",6.5,54.24,1171437,7.749691738594327,38190.0,70.0
+396,Sinister,Scott Derrickson,"Ethan Hawke, Juliet Rylance, James Ransone,Fred Dalton Thompson",6.8,48.06,1635548,18.95737704918033,5675.0,71465.0
+397,Wreck-It Ralph,Rich Moore,"John C. Reilly, Jack McBrayer, Jane Lynch, Sarah Silverman",7.8,189.41,3189329,19.523468057366358,379.0,105.0
+398,Snow White and the Huntsman,Rupert Sanders,"Kristen Stewart, Chris Hemsworth, Charlize Theron, Sam Claflin",6.1,155.11,4942772,24.278625954198475,3034192.0,531.0
+399,Pan,Joe Wright,"Levi Miller, Hugh Jackman, Garrett Hedlund, Rooney Mara",5.8,34.96,330997,21.37374461979914,12455960.0,2117.0
+400,Transformers: Dark of the Moon,Michael Bay,"Shia LaBeouf, Rosie Huntington-Whiteley, Tyrese Gibson, Josh Duhamel",6.3,352.36,32947438,21.699144486692013,317.0,92591.0
+401,Juno,Jason Reitman,"Ellen Page, Michael Cera, Jennifer Garner, Jason Bateman",7.5,143.49,2168132,14.18064952638701,1439700.0,155762.0
+402,A Hologram for the King,Tom Tykwer,"Tom Hanks, Sarita Choudhury, Ben Whishaw,Alexander Black",6.1,4.2,30394,1.500592768227623,15321212.0,108.0
+403,Enchanted,Kevin Lima,"Amy Adams, Susan Sarandon, James Marsden, Patrick Dempsey",7.1,127.71,1713733,14.442622950819672,590609.0,79.0
+404,Little Miss Sunshine,Jonathan Dayton,"Steve Carell, Toni Collette, Greg Kinnear, Abigail Breslin",7.8,59.89,820069,35.46153846153846,5356870.0,5.0
+405,The Finest Hours,Craig Gillespie,"Chris Pine, Casey Affleck, Ben Foster, Eric Bana",6.8,27.55,67047,26.773504273504273,226683.0,269.0
+406,Tron,Joseph Kosinski,"Jeff Bridges, Garrett Hedlund, Olivia Wilde, Bruce Boxleitner",6.8,172.05,5700155,22.607862903225808,1853046.0,210.0
+407,The Hunger Games: Catching Fire,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Philip Seymour Hoffman",7.6,424.65,21400354,37.567489114658926,2889000.0,14.0
+408,All Good Things,Andrew Jarecki,"Ryan Gosling, Kirsten Dunst, Frank Langella, Lily Rabe",6.3,0.58,6552,15.529411764705882,2339455.0,1620.0
+409,Kickboxer: Vengeance,John Stockwell,"Dave Bautista, Alain Moussi, Gina Carano, Jean-Claude Van Damme",4.9,131.56,112236,18.96229508196721,1139571.0,45.0
+410,Sex Tape,Jake Kasdan,"Jason Segel, Cameron Diaz, Rob Corddry, Ellie Kemper",5.1,38.54,1107363,9.553299492385786,2396405.0,218.0
+411,What to Expect When You're Expecting,Kirk Jones,"Cameron Diaz, Matthew Morrison, J. Todd Smith, Dennis Quaid",5.7,41.1,330243,4.44811320754717,703685.0,7089.0
+412,Moneyball,Bennett Miller,"Brad Pitt, Robin Wright, Jonah Hill, Philip Seymour Hoffman",7.6,75.61,7087,18.168918918918926,4972972.0,307.0
+413,Unbroken,Angelina Jolie,"Jack O'Connell, Miyavi, Domhnall Gleeson, Garrett Hedlund",7.2,115.6,449588,27.98630136986301,305393.0,59033.0
+414,Immortals,Tarsem Singh,"Henry Cavill, Mickey Rourke, John Hurt, Stephen Dorff",6.0,83.5,730933,13.176470588235292,53260.0,85.0
+415,Sunshine,Danny Boyle,"Cillian Murphy, Rose Byrne, Chris Evans, Michelle Yeoh",7.3,3.68,5805,9.72554347826087,8651739.0,275.0
+416,Brave,Mark Andrews,"Kelly Macdonald,Billy Connolly, Emma Thompson, Julie Walters",7.2,237.28,8331573,22.538461538461537,1191.0,108.0
+417,Adoration,Anne Fontaine,"Naomi Watts, Robin Wright, Xavier Samuel, James Frecheville",6.2,0.32,28272,14.026109660574413,148449.0,49.0
+418,Daddy's Home,Sean Anders,"Will Ferrell, Mark Wahlberg, Linda Cardellini, Thomas Haden Church",6.1,150.32,696830,28.212162162162162,3825724.0,164.0
+419,Let Me In,Matt Reeves,"Kodi Smit-McPhee, Chloë Grace Moretz, Richard Jenkins, Cara Buono",7.2,12.13,273796,15.851851851851851,3276814.0,45737.0
+420,Never Back Down,Jeff Wadlow,"Sean Faris, Djimon Hounsou, Amber Heard, Cam Gigandet",6.6,24.85,1714503,29.98387096774193,80623.0,7077.0
+421,Moon,Duncan Jones,"Sam Rockwell, Kevin Spacey, Dominique McElligott,Rosie Shaw",7.9,5.01,215325,22.87096774193548,4899935.0,1156.0
+422,Megamind,Tom McGrath,"Will Ferrell, Jonah Hill, Brad Pitt, Tina Fey",7.3,148.34,9842074,17.355263157894736,4972972.0,142.0
+423,Gangster Squad,Ruben Fleischer,"Sean Penn, Ryan Gosling, Emma Stone, Giovanni Ribisi",6.7,46.0,1256,52.373493975903614,2339455.0,13909.0
+424,The Rise of the Krays,Zackary Adler,"Matt Vael, Simon Cotton, Kevin Leslie, Olivia Moyles",5.1,6.53,10715,1.3194444444444444,475.0,4.0
+425,Horrible Bosses,Seth Gordon,"Jason Bateman, Charlie Day, Jason Sudeikis, Steve Wiebe",6.9,117.53,664538,26.43023255813953,1812991.0,1663.0
+426,Mommy,Xavier Dolan,"Anne Dorval, Antoine-Olivier Pilon, Suzanne Clément,Patrick Huard",8.1,3.49,173758,29.53333333333333,528.0,262200.0
+427,The Assassination of Jesse James by the Coward Robert Ford,Andrew Dominik,"Brad Pitt, Casey Affleck, Sam Shepard, Mary-Louise Parker",7.5,3.9,18287,43.84444444444443,669.0,10.0
+428,Bastille Day,James Watkins,"Idris Elba, Richard Madden, Charlotte Le Bon, Kelly Reilly",6.3,0.04,30390,36.39692307692307,2490190.0,86.0
+429,2307: Winter's Dream,Joey Curtis,"Paul Sidhu, Branden Coles, Arielle Holmes, Kelcey Watson",4.0,20.76,742,2.785571142284569,2025.0,551.0
+430,Mr. Right,Paco Cabezas,"Anna Kendrick, Sam Rockwell, Tim Roth, James Ransone",6.3,0.03,35353,24.91762013729977,7099416.0,4.0
+431,The Secret Life of Walter Mitty,Ben Stiller,"Ben Stiller, Kristen Wiig, Jon Daly, Kathryn Hahn",7.3,58.23,588160,34.28822495606327,6065201.0,6065201.0
+432,Dope,Rick Famuyiwa,"Shameik Moore, Tony Revolori, Kiersey Clemons,Kimberly Elise",7.3,17.47,235344,29.579234972677607,74200.0,15028.0
+433,Antichrist,Lars von Trier,"Willem Dafoe, Charlotte Gainsbourg, Storm Acheche Sahlstrøm",6.6,0.4,42271,3.8951965065502185,21466.0,1869.0
+434,Taken 3,Olivier Megaton,"Liam Neeson, Forest Whitaker, Maggie Grace,Famke Janssen",6.0,89.25,4584691,36.84452975047984,175501.0,1.0
+435,Total Recall,Len Wiseman,"Colin Farrell, Bokeem Woodbine, Bryan Cranston,Kate Beckinsale",6.3,58.88,569350,7.0051679586563305,2169678.0,3958.0
+436,X-Men: The Last Stand,Brett Ratner,"Patrick Stewart, Hugh Jackman, Halle Berry, Famke Janssen",6.7,234.36,14328358,13.814814814814815,12456201.0,253645.0
+437,Night at the Museum: Secret of the Tomb,Shawn Levy,"Ben Stiller, Robin Williams, Owen Wilson, Dick Van Dyke",6.2,113.73,2009938,34.13053613053613,6065201.0,10766.0
+438,The Interview,Evan Goldberg,"James Franco, Seth Rogen, Randall Park, Lizzy Caplan",6.6,6.11,686253,20.96324655436447,7491914.0,20.0
+439,WALL·E,Andrew Stanton,"Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard",8.4,223.81,10376259,15.626262626262625,3257.0,58405.0
+440,Knocked Up,Judd Apatow,"Seth Rogen, Katherine Heigl, Paul Rudd, Leslie Mann",7.0,148.73,3994,34.282051282051285,7491914.0,2329104.0
+441,Source Code,Duncan Jones,"Jake Gyllenhaal, Michelle Monaghan, Vera Farmiga,Jeffrey Wright",7.5,54.7,275372,16.0188679245283,213767.0,1156.0
+442,Lawless,John Hillcoat,"Tom Hardy, Shia LaBeouf, Guy Pearce, Jason Clarke",7.3,37.4,152738,24.20618556701031,8947.0,432.0
+443,American Reunion,Jon Hurwitz,"Jason Biggs, Alyson Hannigan,Seann William Scott, Chris Klein",6.7,56.72,27635,32.46153846153846,510332.0,12286.0
+444,The Pursuit of Happyness,Gabriele Muccino,"Will Smith, Thandie Newton, Jaden Smith, Brian Howe",8.0,162.59,2732651,46.24203821656051,7552630.0,80809.0
+445,Relatos salvajes,Damián Szifron,"Darío Grandinetti, María Marull, Mónica Villa, Rita Cortese",8.1,3.08,195413,29.74698795180723,41.0,618.0
+446,Frantz,François Ozon,"Pierre Niney, Paula Beer, Ernst Stötzner, Marie Gruber",7.5,0.86,12509,25.82608695652174,404860.0,3.0
+447,Gran Torino,Clint Eastwood,"Clint Eastwood, Bee Vang, Christopher Carley,Ahney Her",8.2,148.09,1431142,35.897959183673464,549.0,549.0
+448,Burnt,John Wells,"Bradley Cooper, Sienna Miller, Daniel Brühl, Riccardo Scamarcio",6.6,13.65,27080,14.934747145187602,41014.0,303.0
+449,Sleeping Beauty,Julia Leigh,"Emily Browning, Rachael Blake, Ewen Leslie, Bridgette Barrett",5.3,0.03,3094984,9.121951219512193,670.0,302.0
+450,Vampire Academy,Mark Waters,"Zoey Deutch, Lucy Fry, Danila Kozlovsky, Gabriel Byrne",5.6,7.79,324251,11.573952879581153,188531.0,1173.0
+451,Insidious,James Wan,"Patrick Wilson, Rose Byrne, Ty Simpkins, Lin Shaye",6.8,53.99,5233436,25.70069162890532,99442.0,79.0
+452,Popstar: Never Stop Never Stopping,Akiva Schaffer,"Andy Samberg, Jorma Taccone,Akiva Schaffer, Sarah Silverman",6.7,9.39,142967,9.539160045402953,74521.0,2377.0
+453,Public Enemies,Michael Mann,"Christian Bale, Johnny Depp, Christian Stolte, Jason Clarke",7.0,97.03,40789,32.892857142857146,41185.0,1008.0
+454,Eastern Promises,David Cronenberg,"Naomi Watts, Viggo Mortensen, Armin Mueller-Stahl, Josef Altin",7.7,17.11,3970,15.869565217391305,2108.0,521.0
+455,The Daughter,Simon Stone,"Geoffrey Rush, Nicholas Hope, Sam Neill, Ewen Leslie",6.7,0.03,8014,14.216216216216214,4037.0,1438.0
+456,Pineapple Express,David Gordon Green,"Seth Rogen, James Franco, Gary Cole, Danny McBride",7.0,87.34,5047558,34.55844155844156,7491911.0,814.0
+457,The First Time,Jon Kasdan,"Dylan O'Brien, Britt Robertson, Victoria Justice, James Frecheville",6.9,0.02,151395,48.69244935543278,10880995.0,2044.0
+458,Gone Baby Gone,Ben Affleck,"Morgan Freeman, Ed Harris, Casey Affleck, Michelle Monaghan",7.7,20.3,101982,24.92307692307693,6890.0,2918803.0
+459,The Heat,Paul Feig,"Sandra Bullock, Michael McDonald, Melissa McCarthy,Demián Bichir",6.6,159.58,1063315,27.02865329512894,967366.0,2325850.0
+460,Anna Karenina,Joe Wright,"Keira Knightley, Jude Law, Aaron Taylor-Johnson,Matthew Macfadyen",6.6,12.8,312577,22.453781512605037,51.0,2117.0
+461,Ted 2,Seth MacFarlane,"Mark Wahlberg, Seth MacFarlane, Amanda Seyfried, Jessica Barth",6.3,81.26,20282302,18.363907734056987,14444985.0,14444985.0
+462,Pain & Gain,Michael Bay,"Mark Wahlberg, Dwayne Johnson, Anthony Mackie,Tony Shalhoub",6.5,49.87,1461919,17.281874039938558,12689358.0,92591.0
+463,Child 44,Daniel Espinosa,"Tom Hardy, Gary Oldman, Noomi Rapace, Joel Kinnaman",6.5,1.21,76815,14.48395061728395,8947.0,363.0
+464,The Hurt Locker,Kathryn Bigelow,"Jeremy Renner, Anthony Mackie, Brian Geraghty,Guy Pearce",7.6,15.7,725707,20.41025641025641,3504188.0,5.0
+465,Green Lantern,Martin Campbell,"Ryan Reynolds, Blake Lively, Peter Sarsgaard,Mark Strong",5.6,116.59,1454648,8.178756476683937,10203465.0,1340.0
+466,The Mist,Frank Darabont,"Thomas Jane, Marcia Gay Harden, Laurie Holden,Andre Braugher",7.2,25.59,95569,17.928802588996767,79794.0,22146.0
+467,"Love, Rosie",Christian Ditter,"Lily Collins, Sam Claflin, Christian Cooke, Jaime Winstone",7.2,0.01,731218,96.7936507936508,1006138.0,2807.0
+468,The DUFF,Ari Sandel,"Mae Whitman, Bella Thorne, Robbie Amell, Allison Janney",6.5,34.02,493280,27.132601020007854,6986374.0,1.0
+469,The Hunger Games: Mockingjay - Part 1,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson",6.7,337.1,21400355,31.865139949109416,2889011.0,14.0
+470,We Need to Talk About Kevin,Lynne Ramsay,"Tilda Swinton, John C. Reilly, Ezra Miller, Jasper Newell",7.5,1.74,133177,49.6,1741.0,1.0
+471,Love & Friendship,Whit Stillman,"Kate Beckinsale, Chloë Sevigny, Xavier Samuel,Emma Greenwell",6.5,14.01,51145,18.02,194118.0,12134.0
+472,The Mortal Instruments: City of Bones,Harald Zwart,"Lily Collins, Jamie Campbell Bower, Robert Sheehan,Jemima West",5.9,31.17,1857379,37.047984644913626,680482.0,7937.0
+473,Seven Pounds,Gabriele Muccino,"Will Smith, Rosario Dawson, Woody Harrelson,Michael Ealy",7.7,69.95,1420184,27.15116279069768,660383.0,80809.0
+474,The King's Speech,Tom Hooper,"Colin Firth, Geoffrey Rush, Helena Bonham Carter,Derek Jacobi",8.0,138.8,252256,34.666666666666664,4037.0,232.0
+475,Hunger,Steve McQueen,"Stuart Graham, Laine Megaw, Brian Milligan, Liam McMahon",7.6,0.15,21400355,24.466666666666665,677.0,239.0
+476,Jumper,Doug Liman,"Hayden Christensen, Samuel L. Jackson, Jamie Bell,Rachel Bilson",6.1,80.17,705816,11.081632653061225,7360572.0,710.0
+477,Toy Story 3,Lee Unkrich,"Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty",8.3,414.98,2810,4.2438882421420265,15321191.0,168576.0
+478,Tinker Tailor Soldier Spy,Tomas Alfredson,"Gary Oldman, Colin Firth, Tom Hardy, Mark Strong",7.1,24.1,66709,28.78181818181818,8947.0,131.0
+479,Resident Evil: Retribution,Paul W.S. Anderson,"Milla Jovovich, Sienna Guillory, Michelle Rodriguez, Aryana Engineer",5.4,42.35,10492036,15.395071542130365,1511199.0,251.0
+480,Dear Zindagi,Gauri Shinde,"Alia Bhatt, Shah Rukh Khan, Kunal Kapoor, Priyanka Moodley",7.8,1.4,188928,37.631578947368425,16597871.0,14.0
+481,Genius,Michael Grandage,"Colin Firth, Jude Law, Nicole Kidman, Laura Linney",6.5,1.36,10825,16.86756756756757,73230.0,10840.0
+482,Pompeii,Paul W.S. Anderson,"Kit Harington, Emily Browning, Kiefer Sutherland, Adewale Akinnuoye-Agbaje",5.5,23.22,284173,6.541025641025642,5058.0,251.0
+483,Life of Pi,Ang Lee,"Suraj Sharma, Irrfan Khan, Adil Hussain, Tabu",7.9,124.98,2065179,15.211699164345404,157.0,134.0
+484,I Origins,Mike Cahill,"Michael Pitt, Steven Yeun, Astrid Bergès-Frisbey, Brit Marling",7.3,0.33,50334,20.134782608695648,1614496.0,6476.0
+485,Live Free or Die Hard,Len Wiseman,"Bruce Willis, Justin Long, Timothy Olyphant, Maggie Q",7.2,134.52,457527,17.076923076923073,187813.0,3958.0
+486,Funny Games,Michael Haneke,"Naomi Watts, Tim Roth, Michael Pitt, Brady Corbet",6.5,1.29,44362,9.845070422535214,893.0,3.0
+487,Ted,Seth MacFarlane,"Mark Wahlberg, Mila Kunis, Seth MacFarlane, Joel McHale",7.0,218.63,20282301,16.695669447755265,14444985.0,14444986.0
+488,Australia,Baz Luhrmann,"Nicole Kidman, Hugh Jackman, Shea Adams, Eddie Baroo",6.6,49.55,233562,9.84,12455843.0,58271.0
+489,Faster,George Tillman Jr.,"Dwayne Johnson, Billy Bob Thornton, Maggie Grace, Mauricio Lopez",6.5,23.23,1553879,18.170149253731342,12689358.0,6.0
+490,The Adjustment Bureau,George Nolfi,"Matt Damon, Emily Blunt, Lisa Thoreson, Florence Kastriner",7.1,62.45,321613,24.99733333333333,51278.0,35.0
+491,The Hollars,John Krasinski,"Sharlto Copley, Charlie Day, Richard Jenkins, Anna Kendrick",6.5,1.02,16484,27.450424929178467,2263.0,1506924.0
+492,The Judge,David Dobkin,"Robert Downey Jr., Robert Duvall, Vera Farmiga, Billy Bob Thornton",7.4,47.11,426175,47.868421052631575,10367764.0,110.0
+493,Incendies,Denis Villeneuve,"Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette, Mustafa Kamel",8.2,6.86,58796,26.62857142857143,8.0,898.0
+494,The Heartbreak Kid,Bobby Farrelly,"Ben Stiller, Michelle Monaghan,Malin Akerman, Jerry Stiller",5.8,36.77,41655,19.251968503937007,6065181.0,29.0
+495,Happy Feet,George Miller,"Elijah Wood, Brittany Murphy, Hugh Jackman, Robin Williams",6.5,197.99,9428285,7.857142857142858,12455846.0,220.0
+496,Entourage,Doug Ellin,"Adrian Grenier, Kevin Connolly, Jerry Ferrara, Kevin Dillon",6.6,32.36,3784514,9.906735751295336,368162.0,95.0
+497,The Strangers,Bryan Bertino,"Scott Speedman, Liv Tyler, Gemma Ward, Alex Fisher",6.2,52.53,1102,22.85483870967742,242260.0,12.0
+498,Noah,Darren Aronofsky,"Russell Crowe, Jennifer Connelly, Anthony Hopkins, Emma Watson",5.8,101.16,1810471,10.446964327899837,2747737.0,263352.0
+499,Neighbors,Nicholas Stoller,"Seth Rogen, Rose Byrne, Zac Efron, Lisa Kudrow",6.4,150.06,1078,29.31826985151711,16036588.0,24512.0
+500,Nymphomaniac: Vol. II,Lars von Trier,"Charlotte Gainsbourg, Stellan Skarsgård, Willem Dafoe, Jamie Bell",6.7,0.33,225296,1.8571428571428568,21466.0,1869.0
+501,Blair Witch,Adam Wingard,"James Allen McCune, Callie Hernandez, Corbin Reid, Brandon Scott",5.1,20.75,704932,2.7572899624675204,19.0,1.0
+502,The Karate Kid,Harald Zwart,"Jackie Chan, Jaden Smith, Taraji P. Henson, Wenwen Han",6.2,176.59,22956302,8.642615012106537,7552613.0,7937.0
+503,Dark Shadows,Tim Burton,"Johnny Depp, Michelle Pfeiffer, Eva Green, Helena Bonham Carter",6.2,79.71,8026,32.93333333333333,48999.0,112101.0
+504,Friends with Benefits,Will Gluck,"Mila Kunis, Justin Timberlake, Patricia Clarkson, Jenna Elfman",6.6,55.8,9126,21.735938989513826,65472697.0,266.0
+505,The Illusionist,Neil Burger,"Edward Norton, Jessica Biel, Paul Giamatti, Rufus Sewell",7.6,39.83,1818949,15.787234042553193,2128172.0,9012.0
+506,The A-Team,Joe Carnahan,"Liam Neeson, Bradley Cooper, Sharlto Copley,Jessica Biel",6.8,77.21,58974,15.921686746987953,41014.0,185.0
+507,The Guest,Adam Wingard,"Dan Stevens, Sheila Kelley, Maika Monroe, Joel David Moore",6.7,0.32,41816,29.39130434782609,30207.0,1.0
+508,The Internship,Shawn Levy,"Vince Vaughn, Owen Wilson, Rose Byrne, Aasif Mandvi",6.3,44.67,534202,11.303370786516854,726.0,10766.0
+509,Paul,Greg Mottola,"Simon Pegg, Nick Frost, Seth Rogen, Mia Stallard",7.0,37.37,225349,47.62913907284769,7491911.0,35144.0
+510,The Da Vinci Code,Ron Howard,"Tom Hanks, Audrey Tautou, Jean Reno, Ian McKellen",6.6,217.54,10429,30.65217391304348,15321191.0,2439823.0
+511,Mr. Church,Bruce Beresford,"Eddie Murphy, Britt Robertson, Natascha McElhone, Xavier Samuel",7.7,0.69,1394,42.95833333333334,152.0,357.0
+512,Hugo,Martin Scorsese,"Asa Butterfield, Chloë Grace Moretz, Christopher Lee, Ben Kingsley",7.5,73.82,266119,14.28,3276836.0,76.0
+513,The Blackcoat's Daughter,Oz Perkins,"Emma Roberts, Kiernan Shipka, Lauren Holly, Lucy Boynton",5.6,0.02,905,12.72566371681416,3776175.0,10.0
+514,Knight of Cups,Terrence Malick,"Christian Bale, Cate Blanchett, Natalie Portman,Brian Dennehy",5.7,0.56,19289,8.906816760475296,41154.0,3.0
+515,The Mummy: Tomb of the Dragon Emperor,Rob Cohen,"Brendan Fraser, Jet Li, Maria Bello, Michelle Yeoh",5.2,102.18,1595898,10.777777777777779,14900.0,501.0
+516,The Boss,Ben Falcone,"Melissa McCarthy, Kristen Bell, Peter Dinklage, Ella Anderson",5.4,63.03,345237,17.59975293390982,2344886.0,19479.0
+517,True Grit,Ethan Coen,"Jeff Bridges, Matt Damon, Hailee Steinfeld,Josh Brolin",7.6,171.03,171987,25.623003194888177,959590.0,1403.0
+518,We Are Your Friends,Max Joseph,"Zac Efron, Wes Bentley, Emily Ratajkowski, Jonny Weston",6.2,3.59,456782,8.404289667896679,16036589.0,505610.0
+519,Ouija: Origin of Evil,Mike Flanagan,"Elizabeth Reaser, Lulu Wilson, Annalise Basso,Henry Thomas",6.1,34.9,1827234,10.409935205183583,6096.0,16.0
+520,Percy Jackson: Sea of Monsters,Thor Freudenthal,"Logan Lerman, Alexandra Daddario, Brandon T. Jackson, Nathan Fillion",5.9,68.56,1957722,18.66637554585153,1496138.0,5852.0
+521,This Means War,McG,"Reese Witherspoon, Chris Pine, Tom Hardy, Til Schweiger",6.3,54.76,239556,22.0,8947.0,96202.0
+522,The Road,John Hillcoat,"Viggo Mortensen, Charlize Theron, Kodi Smit-McPhee,Robert Duvall",7.3,0.06,8493,9.634615384615383,2405.0,432.0
+523,The Fighter,David O. Russell,"Mark Wahlberg, Christian Bale, Amy Adams,Melissa Leo",7.8,93.57,254495,32.52173913043478,3825694.0,549.0
+524,August Rush,Kirsten Sheridan,"Freddie Highmore, Keri Russell, Jonathan Rhys Meyers, Terrence Howard",7.5,31.66,1265211,19.319444444444443,14196.0,84.0
+525,Eye in the Sky,Gavin Hood,"Helen Mirren, Aaron Paul, Alan Rickman, Barkhad Abdi",7.3,18.7,10185,5.780845556514237,2767040.0,117.0
+526,The Purge,James DeMonaco,"Ethan Hawke, Lena Headey, Max Burkholder,Adelaide Kane",5.7,64.42,3014261,13.588595866001425,1079579.0,93.0
+527,PK,Rajkumar Hirani,"Aamir Khan, Anushka Sharma, Sanjay Dutt,Boman Irani",8.2,10.57,28378,5.458461538461538,23041961.0,470920.0
+528,Ender's Game,Gavin Hood,"Harrison Ford, Asa Butterfield, Hailee Steinfeld, Abigail Breslin",6.7,61.66,323836,15.200594353640414,959551.0,117.0
+529,Paper Towns,Jake Schreier,"Nat Wolff, Cara Delevingne, Austin Abrams, Justice Smith",6.3,31.99,1650880,56.893844221105525,10379764.0,5144.0
+530,High-Rise,Ben Wheatley,"Tom Hiddleston, Jeremy Irons, Sienna Miller, Luke Evans",5.7,0.34,35021,50.744444444444454,3405193.0,204.0
+531,Quantum of Solace,Marc Forster,"Daniel Craig, Olga Kurylenko, Mathieu Amalric, Judi Dench",6.6,168.37,4921153,14.507936507936508,1058.0,448.0
+532,How to Train Your Dragon,Dean DeBlois,"Jay Baruchel, Gerard Butler,Christopher Mintz-Plasse, Craig Ferguson",8.1,217.39,9553627,17.184210526315788,502643.0,10636.0
+533,The Fountain,Darren Aronofsky,"Hugh Jackman, Rachel Weisz, Sean Patrick Thomas, Ellen Burstyn",7.3,10.14,309731,36.16666666666666,12455366.0,263353.0
+534,31,Rob Zombie,"Malcolm McDowell, Richard Brake, Jeff Daniel Phillips,Sheri Moon Zombie",5.1,0.78,5362570,4.373160173160174,2545.0,490879.0
+535,The Man Who Knew Infinity,Matt Brown,"Dev Patel, Jeremy Irons, Malcolm Sinclair, Raghuvir Joshi",7.2,3.86,25642,61.72727272727273,2824.0,1338.0
+536,Self/less,Tarsem Singh,"Ryan Reynolds, Natalie Martinez, Matthew Goode,Ben Kingsley",6.5,12.28,139644,36.752808988764045,10203314.0,85.0
+537,Before We Go,Chris Evans,"Chris Evans, Alice Eve, Emma Fitzpatrick, John Cullum",6.9,0.04,2790,65.7744874715262,8651085.0,8651085.0
+538,Captain Phillips,Paul Greengrass,"Tom Hanks, Barkhad Abdi, Barkhad Abdirahman,Catherine Keener",7.8,107.1,357590,24.17272727272727,15321068.0,79.0
+539,Max Steel,Stewart Hendler,"Ben Winchell, Josh Brener, Maria Bello, Andy Garcia",4.6,3.77,58399,4.719383921863262,979.0,2073.0
+540,Hancock,Peter Berg,"Will Smith, Charlize Theron, Jason Bateman, Jae Head",6.4,227.95,427368,20.5,1813007.0,516.0
+541,Sisters,Jason Moore,"Amy Poehler, Tina Fey, Maya Rudolph, Ike Barinholtz",6.0,87.03,419636,14.04340567612688,128694.0,770.0
+542,The Family,Luc Besson,"Robert De Niro, Michelle Pfeiffer, Dianna Agron, John D'Leo",6.3,36.92,295187,5.5,2023741.0,1457932.0
+543,Zack and Miri Make a Porno,Kevin Smith,"Seth Rogen, Elizabeth Banks, Craig Robinson, Gerry Bednob",6.6,31.45,113,6.454545454545454,7491969.0,3346812.0
+544,Ma vie de Courgette,Claude Barras,"Gaspard Schlatter, Sixtine Murat, Paulin Jaccoud,Michel Vuillermoz",7.8,0.29,3977,24.42307692307693,24.0,13.0
+545,Man on a Ledge,Asger Leth,"Sam Worthington, Elizabeth Banks, Jamie Bell, Mandy Gonzalez",6.6,18.6,448084,25.315789473684212,2351815.0,10.0
+546,Rescue Dawn,Werner Herzog,"Christian Bale, Steve Zahn, Jeremy Davies, Zach Grenier",7.3,5.48,1000230,15.021739130434785,3712.0,95.0
+547,Despicable Me 2,Pierre Coffin,"Steve Carell, Kristen Wiig, Benjamin Bratt, Miranda Cosgrove",7.4,368.05,18224739,10.253464203233257,5356838.0,18.0
+548,A Walk Among the Tombstones,Scott Frank,"Liam Neeson, Dan Stevens, David Harbour, Boyd Holbrook",6.5,25.98,322653,6.812108559498956,892823.0,46.0
+549,The World's End,Edgar Wright,"Simon Pegg, Nick Frost, Martin Freeman, Rosamund Pike",7.0,26.0,267113,20.987249544626593,6502083.0,737957.0
+550,Beowulf,Robert Zemeckis,"Ray Winstone, Crispin Glover, Angelina Jolie,Robin Wright",6.2,82.16,10897,7.1015625,59034.0,16.0
+551,Jack Ryan: Shadow Recruit,Kenneth Branagh,"Chris Pine, Kevin Costner, Keira Knightley,Kenneth Branagh",6.2,50.55,140729,13.558536585365855,1800.0,1078.0
+552,The Gambler,Rupert Wyatt,"Mark Wahlberg, Jessica Lange, John Goodman, Brie Larson",6.0,33.63,96252,13.390328151986186,3825695.0,5.0
+553,Prince of Persia: The Sands of Time,Mike Newell,"Jake Gyllenhaal, Gemma Arterton, Ben Kingsley,Alfred Molina",6.6,90.76,5069861,17.497354497354493,74789.0,130.0
+554,The Spectacular Now,James Ponsoldt,"Miles Teller, Shailene Woodley, Kyle Chandler,Jennifer Jason Leigh",7.1,6.85,398533,64.2453567937439,1259651.0,9840.0
+555,A United Kingdom,Amma Asante,"David Oyelowo, Rosamund Pike, Tom Felton, Jack Davenport",6.8,3.9,23182,6.186004784688995,2861597.0,23895.0
+556,Turbo Kid,François Simard,"Munro Chambers, Laurence Leboeuf, Michael Ironside, Edwin Wright",6.7,0.05,22276,33.22026431718061,796.0,334.0
+557,To Rome with Love,Woody Allen,"Woody Allen, Penélope Cruz, Jesse Eisenberg, Ellen Page",6.3,16.68,62625,20.985915492957748,1994.0,1994.0
+558,Fantastic Mr. Fox,Wes Anderson,"George Clooney, Meryl Streep, Bill Murray, Jason Schwartzman",7.8,21.0,308648,17.489905787348587,39585.0,4559.0
+559,Inside Man,Spike Lee,"Denzel Washington, Clive Owen, Jodie Foster,Christopher Plummer",7.6,88.5,1143,26.66666666666667,1755.0,801701.0
+560,127 Hours,Danny Boyle,"James Franco, Amber Tamblyn, Kate Mara, Sean Bott",7.6,18.33,1465084,43.91139240506329,250024.0,275.0
+561,The Imaginarium of Doctor Parnassus,Terry Gilliam,"Christopher Plummer, Lily Cole, Heath Ledger,Andrew Garfield",6.8,7.69,2005,39.46153846153846,30131.0,188985.0
+562,G.I. Joe: The Rise of Cobra,Stephen Sommers,"Dennis Quaid, Channing Tatum, Marlon Wayans,Adewale Akinnuoye-Agbaje",5.8,150.17,6300357,17.341463414634145,8854778.0,604.0
+563,Christine,Antonio Campos,"Rebecca Hall, Michael C. Hall, Tracy Letts, Maria Dizzia",7.0,0.3,256687,29.9375,1260.0,302.0
+564,Shut In,Farren Blackburn,"Naomi Watts, Charlie Heaton, Jacob Tremblay,Oliver Platt",4.6,6.88,39581,17.20159151193634,95757.0,1759.0
+565,Grindhouse,Robert Rodriguez,"Kurt Russell, Rose McGowan, Danny Trejo, Zoë Bell",7.6,25.03,315078,10.035087719298245,914768.0,98212.0
+566,Disaster Movie,Jason Friedberg,"Carmen Electra, Vanessa Lachey,Nicole Parker, Matt Lanter",1.9,14.17,125688,29.34072022160665,393074.0,148.0
+567,Rocky Balboa,Sylvester Stallone,"Sylvester Stallone, Antonio Tarver, Milo Ventimiglia, Burt Young",7.2,70.27,11530346,34.0,562927.0,2819.0
+568,Diary of a Wimpy Kid: Dog Days,David Bowers,"Zachary Gordon, Robert Capron, Devon Bostick,Steve Zahn",6.4,49.0,2587922,21.38536585365853,101894.0,572.0
+569,Fool's Gold,Andy Tennant,"Matthew McConaughey, Kate Hudson, Donald Sutherland, Alexis Dziena",5.7,70.22,115119,17.65625,2452849.0,673.0
+570,The Dictator,Larry Charles,"Sacha Baron Cohen, Anna Faris, John C. Reilly, Ben Kingsley",6.4,59.62,49201,15.095393662201896,189.0,91.0
+571,The Loft,Erik Van Looy,"Karl Urban, James Marsden, Wentworth Miller, Eric Stonestreet",6.3,5.98,34222,16.970954356846473,97338.0,12.0
+572,Horrible Bosses 2,Sean Anders,"Jason Bateman, Jason Sudeikis, Charlie Day, Jennifer Aniston",6.3,54.41,664537,16.894472361809044,1813007.0,164.0
+573,A Bigger Splash,Luca Guadagnino,"Tilda Swinton, Matthias Schoenaerts, Ralph Fiennes, Dakota Johnson",6.4,1.98,11548,11.075980392156863,1481.0,39.0
+574,Melancholia,Lars von Trier,"Kirsten Dunst, Charlotte Gainsbourg, Kiefer Sutherland, Alexander Skarsgård",7.1,3.03,267767,9.872813990461047,493356.0,1869.0
+575,The Princess and the Frog,Ron Clements,"Anika Noni Rose, Keith David, Oprah Winfrey, Bruno Campos",7.1,104.37,3979005,3.3404825737265416,932347.0,35.0
+576,Unstoppable,Tony Scott,"Denzel Washington, Chris Pine, Rosario Dawson, Ethan Suplee",6.8,81.56,411564,16.765690376569037,660379.0,983.0
+577,Flight,Robert Zemeckis,"Denzel Washington, Nadine Velazquez, Don Cheadle, John Goodman",7.3,93.75,321337,24.247191011235948,590258.0,16.0
+578,Home,Tim Johnson,"Jim Parsons, Rihanna, Steve Martin, Jennifer Lopez",6.7,177.34,838984,12.569026548672564,86631891.0,4762.0
+579,21,Robert Luketic,"Jim Sturgess, Kate Bosworth, Kevin Spacey, Aaron Yoo",6.8,81.16,15646,14.661016949152536,4899981.0,45.0
+580,Begin Again,John Carney,"Keira Knightley, Mark Ruffalo, Adam Levine, Hailee Steinfeld",7.4,16.17,378682,38.401368301026224,8836160.0,494.0
+581,Out of the Furnace,Scott Cooper,"Christian Bale, Casey Affleck, Zoe Saldana, Woody Harrelson",6.8,11.33,100198,24.541561712846352,763407.0,382.0
+582,Vicky Cristina Barcelona,Woody Allen,"Rebecca Hall, Scarlett Johansson, Javier Bardem,Christopher Evan Welch",7.1,23.21,594220,14.83838383838384,9806.0,1994.0
+583,Kung Fu Panda,Mark Osborne,"Jack Black, Ian McShane,Angelina Jolie, Dustin Hoffman",7.6,215.4,22285368,9.547619047619047,59034.0,90.0
+584,Barbershop: The Next Cut,Malcolm D. Lee,"Ice Cube, Regina Hall, Anthony Anderson, Eve",5.9,54.01,621897,15.964601769911509,4661872.0,26466.0
+585,Terminator Salvation,McG,"Christian Bale, Sam Worthington, Anton Yelchin, Moon Bloodgood",6.6,125.32,1319928,20.703296703296704,3712.0,96202.0
+586,The Hills Have Eyes,Alexandre Aja,"Ted Levine, Kathleen Quinlan, Dan Byrd, Emilie de Ravin",6.4,41.78,727549,13.750769230769231,305.0,24404.0
+587,Changeling,Clint Eastwood,"Angelina Jolie, Colm Feore, Amy Ryan, Gattlin Griffith",7.8,35.71,2320,26.45454545454545,59034.0,549.0
+588,Locke,Steven Knight,"Tom Hardy, Olivia Colman, Ruth Wilson, Andrew Scott",7.1,1.36,62991,13.304761904761904,8947.0,363.0
+589,Horns,Alexandre Aja,"Daniel Radcliffe, Juno Temple, Max Minghella, Joe Anderson",6.5,0.16,122154,20.448526270824434,35711.0,24404.0
+590,Indignation,James Schamus,"Logan Lerman, Sarah Gadon, Tijuana Ricks, Sue Dahlman",6.9,3.4,12630,41.46341463414634,1496138.0,2843.0
+591,Diary of a Wimpy Kid: Rodrick Rules,David Bowers,"Zachary Gordon, Devon Bostick, Robert Capron,Rachael Harris",6.6,52.69,2587922,16.380701754385964,101894.0,572.0
+592,Mission: Impossible III,J.J. Abrams,"Tom Cruise, Michelle Monaghan, Ving Rhames, Philip Seymour Hoffman",6.9,133.38,3365243,20.634146341463413,6730650.0,1.0
+593,Red Dawn,Dan Bradley,"Chris Hemsworth, Isabel Lucas, Josh Hutcherson, Josh Peck",5.4,44.8,356717,5.83831628638867,3034048.0,357.0
+594,Life as We Know It,Greg Berlanti,"Katherine Heigl, Josh Duhamel, Josh Lucas, Alexis Clagett",6.6,53.36,907096,33.1921568627451,1322003.0,6.0
+595,Warm Bodies,Jonathan Levine,"Nicholas Hoult, Teresa Palmer, John Malkovich,Analeigh Tipton",6.9,66.36,2358774,31.813327247832042,491135.0,108.0
+596,Blue Jasmine,Woody Allen,"Cate Blanchett, Alec Baldwin, Peter Sarsgaard, Sally Hawkins",7.3,33.4,62769,8.403846153846152,257860.0,1994.0
+597,G.I. Joe: Retaliation,Jon M. Chu,"Dwayne Johnson, Channing Tatum, Adrianne Palicki,Byung-hun Lee",5.8,122.51,6300357,20.391332470892625,12689284.0,600248.0
+598,Saving Mr. Banks,John Lee Hancock,"Emma Thompson, Tom Hanks, Annie Rose Buckley, Colin Farrell",7.5,83.3,358203,22.297619047619047,15321070.0,117.0
+599,Rio,Carlos Saldanha,"Jesse Eisenberg, Anne Hathaway, George Lopez,Karen Disher",6.9,143.62,12272474,5.406749555950266,2107763.0,3.0
+600,Equals,Drake Doremus,"Nicholas Hoult, Kristen Stewart, Vernetta Lopez,Scott Lawrence",6.1,0.03,44485,18.66421439831845,491135.0,8313.0
+601,The Tree of Life,Terrence Malick,"Brad Pitt, Sean Penn, Jessica Chastain, Hunter McCracken",6.8,13.3,1098,36.45679012345679,712061.0,3.0
+602,The Lucky One,Scott Hicks,"Zac Efron, Taylor Schilling, Blythe Danner, Riley Thomas Stewart",6.5,60.44,2659022,26.810725552050474,16036393.0,1178.0
+603,Piranha 3D,Alexandre Aja,"Elisabeth Shue, Jerry O'Connell, Richard Dreyfuss,Ving Rhames",5.5,25.0,441223,11.507936507936508,124851.0,24404.0
+604,50/50,Jonathan Levine,"Joseph Gordon-Levitt, Seth Rogen, Anna Kendrick, Bryce Dallas Howard",7.7,34.96,559450,15.5,7491969.0,108.0
+605,Real Steel,Shawn Levy,"Hugh Jackman, Evangeline Lilly, Dakota Goyo,Anthony Mackie",7.1,85.46,3419647,11.311688311688313,12455380.0,10768.0
+606,Rambo,Sylvester Stallone,"Sylvester Stallone, Julie Benz, Matthew Marsden, Graham McTavish",7.1,42.72,19768701,17.75531914893617,291436.0,2819.0
+607,Concussion,Peter Landesman,"Will Smith, Alec Baldwin, Albert Brooks, David Morse",7.1,34.53,310235,11.7289769683985,1770986.0,321.0
+608,The Fall,Tarsem Singh,"Lee Pace, Catinca Untaru, Justine Waddell, Kim Uylenbroek",7.9,2.28,6165,44.56616415410385,263412.0,85.0
+609,The Ugly Truth,Robert Luketic,"Katherine Heigl, Gerard Butler, Bree Turner, Eric Winter",6.5,88.92,253,24.642553191489363,1322003.0,45.0
+610,Sleeping with Other People,Leslye Headland,"Jason Sudeikis, Alison Brie, Jordan Carlos,Margarita Levieva",6.5,0.81,11357,14.506048387096774,894728.0,5158.0
+611,Snakes on a Plane,David R. Ellis,"Samuel L. Jackson, Julianna Margulies, Nathan Phillips, Rachel Blanchard",5.6,34.01,35235,7.028985507246378,7360525.0,29.0
+612,What If,Michael Dowse,"Daniel Radcliffe, Zoe Kazan, Megan Park, Adam Driver",6.8,3.45,389280,57.08580508474577,35711.0,382.0
+613,How to Train Your Dragon 2,Dean DeBlois,"Jay Baruchel, Cate Blanchett, Gerard Butler, Craig Ferguson",7.9,177.0,9553628,53.81589958158995,502643.0,10636.0
+614,RoboCop,José Padilha,"Joel Kinnaman, Gary Oldman, Michael Keaton, Abbie Cornish",6.2,58.61,1514807,10.120222929936306,459278.0,1262.0
+615,Slither,James Gunn,"Nathan Fillion, Elizabeth Banks, Michael Rooker, Don Thompson",6.5,7.77,1937,7.854330708661418,3633906.0,413732.0
+616,Il racconto dei racconti - Tale of Tales,Matteo Garrone,"Salma Hayek, Vincent Cassel, Toby Jones, John C. Reilly",6.4,0.08,729,9.830125120307988,256038.0,75.0
+617,Coherence,James Ward Byrkit,"Emily Baldoni, Maury Sterling, Nicholas Brendon, Elizabeth Gracen",7.2,0.07,12262,18.88636363636364,123971.0,1096.0
+618,Notorious,George Tillman Jr.,"Jamal Woolard, Anthony Mackie, Derek Luke,Momo Dione",6.7,36.84,136754,33.59683794466403,541045.0,6.0
+619,The Expendables 2,Simon West,"Sylvester Stallone, Liam Hemsworth, Randy Couture,Jean-Claude Van Damme",6.6,85.02,11133855,27.76923076923077,1728661.0,602.0
+620,Centurion,Neil Marshall,"Michael Fassbender, Dominic West, Olga Kurylenko,Andreas Wisniewski",6.4,0.12,94551,10.696062992125984,18972.0,292.0
+621,No Escape,John Erick Dowdle,"Lake Bell, Pierce Brosnan, Owen Wilson,Chatchawai Kamonsakpitak",6.8,27.29,90646,13.943624161073826,132880.0,3.0
+622,Superman Returns,Bryan Singer,"Brandon Routh, Kevin Spacey, Kate Bosworth, James Marsden",6.1,200.07,1194821,12.176258992805755,4899981.0,55.0
+623,The Twilight Saga: Breaking Dawn - Part 1,Bill Condon,"Kristen Stewart, Robert Pattinson, Taylor Lautner, Gil Birmingham",4.9,281.28,14238027,16.836906584992338,189343.0,112.0
+624,Precious,Lee Daniels,"Gabourey Sidibe, Mo'Nique, Paula Patton, Mariah Carey",7.3,47.54,669250,47.39106145251397,185792.0,30.0
+625,The Sea of Trees,Gus Van Sant,"Matthew McConaughey, Naomi Watts, Ken Watanabe,Ryoko Seta",5.9,0.02,30110,12.67588932806324,2452849.0,905.0
+626,Footloose,Craig Brewer,"Kenny Wormald, Julianne Hough, Dennis Quaid,Andie MacDowell",5.9,51.78,1399796,3.695139216611609,1297949.0,25.0
+627,If I Stay,R.J. Cutler,"Chloë Grace Moretz, Mireille Enos, Jamie Blackley,Joshua Leonard",6.8,50.46,3106879,49.85129819040126,3276827.0,2766.0
+628,The Love Witch,Anna Biller,"Samantha Robinson, Jeffrey Vincent Parise, Laura Waddell, Gian Keys",6.2,0.22,3189,10.285714285714286,37163.0,77.0
+629,The Human Centipede (First Sequence),Tom Six,"Dieter Laser, Ashley C. Williams, Ashlynn Yennie, Akihiro Kitamura",4.4,0.18,2438,2.702602230483272,4465.0,221.0
+630,Super,James Gunn,"Rainn Wilson, Ellen Page, Liv Tyler, Kevin Bacon",6.8,0.32,3134,18.431034482758626,4542020.0,413732.0
+631,Up in the Air,Jason Reitman,"George Clooney, Vera Farmiga, Anna Kendrick,Jason Bateman",7.4,83.81,287349,26.096774193548388,7099373.0,155763.0
+632,The Midnight Meat Train,Ryûhei Kitamura,"Vinnie Jones, Bradley Cooper, Leslie Bibb, Brooke Shields",6.1,0.07,226249,12.395348837209307,41014.0,2.0
+633,The Twilight Saga: Eclipse,David Slade,"Kristen Stewart, Robert Pattinson, Taylor Lautner,Xavier Samuel",4.9,300.52,44924493,7.840709903593337,189343.0,1292.0
+634,What's Your Number?,Mark Mylod,"Anna Faris, Chris Evans, Ari Graynor, Blythe Danner",6.1,13.99,81042,31.484536082474232,8651092.0,32.0
+635,Riddick,David Twohy,"Vin Diesel, Karl Urban, Katee Sackhoff, Jordi Mollà",6.4,42.0,1509639,19.19148936170213,231489.0,21.0
+636,The Butler,Lee Daniels,"Forest Whitaker, Oprah Winfrey, John Cusack, Jane Fonda",7.2,116.63,7313,9.57643312101911,1700442.0,30.0
+637,King Cobra,Justin Kelly,"Garrett Clayton, Christian Slater, Molly Ringwald,James Kelley",5.6,0.03,20836,3.5541059094397545,211874.0,290.0
+638,After Earth,M. Night Shyamalan,"Jaden Smith, David Denman, Will Smith,Sophie Okonedo",4.9,60.52,1629724,11.981737849779089,7552424.0,137482.0
+639,Kicks,Justin Tipping,"Jahking Guillory, Christopher Jordan Wallace,Christopher Meyer, Kofi Siriboe",6.1,0.15,23796,18.885644768856448,5226.0,1111.0
+640,The Descendants,Alexander Payne,"George Clooney, Shailene Woodley, Amara Miller, Nick Krause",7.3,82.62,21767,4.397035706265439,1259652.0,86.0
+641,Death Race,Paul W.S. Anderson,"Jason Statham, Joan Allen, Tyrese Gibson, Ian McShane",6.4,36.06,14961,21.818181818181817,4021.0,251.0
+642,That Awkward Moment,Tom Gormican,"Zac Efron, Michael B. Jordan, Miles Teller, Imogen Poots",6.2,26.05,1205792,25.95454545454545,16036394.0,2383.0
+643,Legion,Scott Stewart,"Paul Bettany, Dennis Quaid, Charles S. Dutton, Lucas Black",5.2,40.17,566959,6.709183673469387,237007.0,31.0
+644,End of Watch,David Ayer,"Jake Gyllenhaal, Michael Peña, Anna Kendrick, America Ferrera",7.7,40.98,3415,32.45945945945946,7099373.0,383.0
+645,3 Days to Kill,McG,"Kevin Costner, Hailee Steinfeld, Connie Nielsen, Amber Heard",6.2,30.69,135026,19.912885662431947,959557.0,96203.0
+646,Lucky Number Slevin,Paul McGuigan,"Josh Hartnett, Ben Kingsley, Morgan Freeman, Lucy Liu",7.8,22.49,309,16.133333333333333,6890.0,1.0
+647,Trance,Danny Boyle,"James McAvoy, Rosario Dawson, Vincent Cassel,Danny Sapani",7.0,2.32,25673,33.27906976744186,660379.0,275.0
+648,Into the Forest,Patricia Rozema,"Ellen Page, Evan Rachel Wood, Max Minghella,Callum Keith Rennie",5.9,0.01,6759,11.280487804878053,1439695.0,1358.0
+649,I Spit on Your Grave,Steven R. Monroe,"Sarah Butler, Jeff Branson, Andrew Howard,Daniel Franzese",6.3,0.09,5956,8.4,37636.0,453.0
+650,The Walk,Robert Zemeckis,"Joseph Gordon-Levitt, Charlotte Le Bon,Guillaume Baillargeon, Émilie Leclerc",7.3,10.14,175225,27.391509433962263,4450.0,16.0
+651,The Lone Ranger,Gore Verbinski,"Johnny Depp, Armie Hammer, William Fichtner,Tom Wilkinson",6.5,89.29,754406,19.44188596491228,137302.0,69.0
+652,Texas Chainsaw 3D,John Luessenhop,"Alexandra Daddario, Tania Raymonde, Scott Eastwood, Trey Songz",4.8,34.33,2293459,8.738219895287957,216450.0,20.0
+653,Rock of Ages,Adam Shankman,"Julianne Hough, Diego Boneta, Tom Cruise, Alec Baldwin",5.9,38.51,430683,8.127272727272727,6730644.0,292881.0
+654,Scream 4,Wes Craven,"Neve Campbell, Courteney Cox, David Arquette, Lucy Hale",6.2,38.18,5562808,16.305882352941175,1103360.0,244166.0
+655,Queen of Katwe,Mira Nair,"Madina Nalwanga, David Oyelowo, Lupita Nyong'o, Martin Kabanza",7.4,8.81,106810,27.96096654275093,1191871.0,6.0
+656,My Big Fat Greek Wedding 2,Kirk Jones,"Nia Vardalos, John Corbett, Michael Constantine, Lainie Kazan",6.0,59.57,930507,19.57567567567568,291499.0,7088.0
+657,Annie,Will Gluck,"Quvenzhané Wallis, Cameron Diaz, Jamie Foxx, Rose Byrne",5.3,85.91,455913,7.295143212951433,4841600.0,266.0
+658,Let's Be Cops,Luke Greenfield,"Jake Johnson, Damon Wayans Jr., Rob Riggle, Nina Dobrev",6.5,82.39,471338,14.001483679525222,1722886.0,2.0
+659,Max,Boaz Yakin,"Thomas Haden Church, Josh Wiggins, Luke Kleintank,Lauren Graham",6.8,42.65,261017,20.110433190970106,23502.0,42.0
+660,Your Highness,David Gordon Green,"Danny McBride, Natalie Portman, James Franco, Rasmus Hardiker",5.6,21.56,6162,9.447698744769877,41155.0,814.0
+661,Selma,Ava DuVernay,"David Oyelowo, Carmen Ejogo, Tim Roth, Lorraine Toussaint",7.5,52.07,289421,30.477372262773727,16880.0,1873973.0
+662,Taare Zameen Par,Aamir Khan,"Darsheel Safary, Aamir Khan, Tanay Chheda, Sachet Engineer",8.5,1.2,404,6.552941176470588,23041907.0,23041907.0
+663,Take Me Home Tonight,Michael Dowse,"Topher Grace, Anna Faris, Dan Fogler, Teresa Palmer",6.3,6.92,59759,26.07142857142857,86255.0,382.0
+664,Resident Evil: Afterlife,Paul W.S. Anderson,"Milla Jovovich, Ali Larter, Wentworth Miller,Kim Coates",5.9,60.13,10492040,10.972972972972977,1511204.0,251.0
+665,Project X,Nima Nourizadeh,"Thomas Mann, Oliver Cooper, Jonathan Daniel Brown, Dax Flame",6.7,54.72,3436,19.759643916913948,12751.0,16993.0
+666,Hostel: Part II,Eli Roth,"Lauren German, Heather Matarazzo, Bijou Phillips, Roger Bart",5.5,17.54,219586,8.158730158730158,187994.0,293285.0
+667,Step Up 2: The Streets,Jon M. Chu,"Robert Hoffman, Briana Evigan, Cassie Ventura, Adam G. Sevani",6.2,58.01,17725,18.66013071895425,64018.0,600248.0
+668,Nine Lives,Barry Sonnenfeld,"Kevin Spacey, Jennifer Garner, Robbie Amell,Cheryl Hines",5.3,19.64,38658,5.6438641090825055,4899980.0,285.0
